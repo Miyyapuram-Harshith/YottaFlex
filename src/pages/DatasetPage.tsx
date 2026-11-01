@@ -7,7 +7,7 @@ import { formatInt } from '../utils/formatters';
 export const DatasetPage: React.FC = () => {
   const [copiedCmd, setCopiedCmd] = useState<string | null>(null);
 
-  const { data: summary, isLoading } = useQuery({
+  const { data: summary, isLoading, isError, refetch } = useQuery({
     queryKey: ['summary'],
     queryFn: api.getSummary,
   });
@@ -115,6 +115,11 @@ export const DatasetPage: React.FC = () => {
               ))}
             </tbody>
           </table>
+        ) : isError ? (
+          <div style={{ padding: '24px', textAlign: 'center', color: 'var(--text-muted)' }}>
+            <p style={{ marginBottom: '8px' }}>Unable to load validation summary. Ensure the API server is running on port 8000.</p>
+            <button className="btn btn-sm btn-primary" onClick={() => refetch()}>Retry</button>
+          </div>
         ) : (
           <div style={{ padding: '24px', color: 'var(--text-muted)' }}>No validation summary found.</div>
         )}

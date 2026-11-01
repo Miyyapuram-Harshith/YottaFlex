@@ -10,6 +10,7 @@ Python 3.9+ compatible.
 """
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
+import argparse
 import json
 import os
 import sqlite3
@@ -35,6 +36,8 @@ DB_DIRS = [
     "/tmp/test_starter",
 ]
 
+EXPLICIT_DB_PATH: Optional[str] = None
+
 TABLE_ALLOWLIST = {
     "customers", "orders", "order_lines", "return_requests",
     "return_lines", "return_authorizations", "return_shipments",
@@ -43,6 +46,9 @@ TABLE_ALLOWLIST = {
 
 
 def find_db_path() -> Optional[str]:
+    global EXPLICIT_DB_PATH
+    if EXPLICIT_DB_PATH and os.path.exists(EXPLICIT_DB_PATH):
+        return EXPLICIT_DB_PATH
     for d in DB_DIRS:
         p = os.path.join(d, "erl_rma.sqlite")
         if os.path.exists(p):
@@ -515,7 +521,8 @@ class ERLRMAApiHandler(BaseHTTPRequestHandler):
             "limit": limit,
             "total_rows": total_rows,
             "total_pages": (total_rows + limit - 1) // limit if limit else 1,
-            "data": rows
+            "data": rows,
+            "records": rows
         }).encode("utf-8"))
 
     def handle_entity_lookup(self, entity_type: str, entity_id: str, start_time: float):
@@ -775,10 +782,12 @@ class ERLRMAApiHandler(BaseHTTPRequestHandler):
             self._send_error(400, "DISPOSITION_ERROR", str(e), start_time=start_time)
 
 
-def run_server(port: int = 8000):
-    server_address = ("", port)
+def run_server(port: int = 8000, host: str = "0.0.0.0"):
+    server_address = (host, port)
     httpd = HTTPServer(server_address, ERLRMAApiHandler)
-    print(f"ERL-RMA Hardened REST API Server listening on port {port} (PID: {os.getpid()})")
+    db = find_db_path()
+    print(f"ERL-RMA Hardened REST API Server listening on http://{host}:{port} (PID: {os.getpid()})")
+    print(f"Connected Database: {db or 'None (Warning: database not found)'}")
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
@@ -787,7 +796,17 @@ def run_server(port: int = 8000):
 
 
 if __name__ == "__main__":
-    port = 8000
-    if len(sys.argv) > 1:
-        port = int(sys.argv[1])
-    run_server(port)
+    parser = argparse.ArgumentParser(description="ERL-RMA Enterprise REST API Server")
+    parser.add_argument("--port", "-p", type=int, default=8000, help="Port to listen on (default: 8000)")
+    parser.add_argument("--host", "-H", type=str, default="0.0.0.0", help="Host interface (default: 0.0.0.0)")
+    parser.add_argument("--db", "-d", type=str, default=None, help="Explicit path to SQLite database")
+    args, unknown = parser.parse_known_args()
+
+    # Support legacy positional port argument: python3 api_server.py 8000
+    if len(sys.argv) == 2 and sys.argv[1].isdigit():
+        args.port = int(sys.argv[1])
+
+    if args.db and os.path.exists(args.db):
+        EXPLICIT_DB_PATH = os.path.abspath(args.db)
+
+    run_server(port=args.port, host=args.host)

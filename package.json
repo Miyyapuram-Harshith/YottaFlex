@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "python3 dev_server.py",
     "dev": "vite",
+    "dev:all": "python3 dev_server.py",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "server": "python3 api_server.py",

@@ -9,7 +9,7 @@ export const ExceptionsPage: React.FC = () => {
   const [remediatedRecords, setRemediatedRecords] = useState<Set<string>>(new Set());
   const [activeDiffRecord, setActiveDiffRecord] = useState<DetectionRecord | null>(null);
 
-  const { data: anomalyData, isLoading } = useQuery({
+  const { data: anomalyData, isLoading, isError, refetch } = useQuery({
     queryKey: ['anomalies'],
     queryFn: api.getAnomalies,
   });
@@ -26,6 +26,28 @@ export const ExceptionsPage: React.FC = () => {
     // Write compensating event, never edit history
     setRemediatedRecords(prev => new Set([...prev, recordId]));
   };
+
+  if (isError) {
+    return (
+      <div className="card" style={{ maxWidth: '640px', margin: '48px auto', textAlign: 'center', padding: 'var(--space-6)' }}>
+        <h2 className="card-title" style={{ color: 'var(--status-danger)', marginBottom: 'var(--space-2)' }}>
+          Backend Service Offline
+        </h2>
+        <p className="card-subtitle" style={{ marginBottom: 'var(--space-4)' }}>
+          Could not load anomaly detections. Start the API server with <code>python3 api_server.py --port 8000</code>.
+        </p>
+        <button className="btn btn-primary" onClick={() => refetch()}>Retry Connection</button>
+      </div>
+    );
+  }
+
+  if (isLoading) {
+    return (
+      <div style={{ padding: '48px 32px', textAlign: 'center', color: 'var(--text-muted)' }}>
+        Loading policy exceptions and conformance metrics...
+      </div>
+    );
+  }
 
   return (
     <div>

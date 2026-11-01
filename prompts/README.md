@@ -20,3 +20,4 @@ This directory houses the formal engineering specification prompts and architect
    The 5 ground-truth anomaly failure modes specified in Section 6 define the evaluation baseline for independent audit rules (`core/audit.py`) and conformance scoring (`core/evaluate.py`).
 3. **Database Schema Deployment**:
    Topological table loading orders and referential constraints in Section 4 and Section 5.4 guide both ANSI SQL / PostgreSQL deployments and local SQLite benchmark databases.
+

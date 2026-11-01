@@ -9,7 +9,7 @@ import { KpiDefinitionsResponse } from '../api/types';
 export const OverviewPage: React.FC = () => {
   const [activeKpiModal, setActiveKpiModal] = useState<string | null>(null);
 
-  const { data: overview, isLoading: isOverviewLoading } = useQuery({
+  const { data: overview, isLoading: isOverviewLoading, isError, refetch } = useQuery({
     queryKey: ['overview'],
     queryFn: api.getOverview,
   });
@@ -19,9 +19,29 @@ export const OverviewPage: React.FC = () => {
     queryFn: api.getKpiDefinitions,
   });
 
+  if (isError) {
+    return (
+      <div className="card" style={{ maxWidth: '640px', margin: '48px auto', textAlign: 'center', padding: 'var(--space-6)' }}>
+        <h2 className="card-title" style={{ color: 'var(--status-danger)', marginBottom: 'var(--space-2)' }}>
+          API Server Connection Required
+        </h2>
+        <p className="card-subtitle" style={{ marginBottom: 'var(--space-4)' }}>
+          The dashboard could not connect to the backend REST API server at <code>http://localhost:8000/api/overview</code>.
+        </p>
+        <div style={{ backgroundColor: 'var(--bg)', padding: '12px', borderRadius: 'var(--radius-md)', fontFamily: 'var(--font-mono)', fontSize: '12px', textAlign: 'left', marginBottom: 'var(--space-4)', border: '1px solid var(--border)' }}>
+          # Start the backend server in your terminal:<br />
+          python3 api_server.py --port 8000
+        </div>
+        <button className="btn btn-primary" onClick={() => refetch()}>
+          Retry Connection
+        </button>
+      </div>
+    );
+  }
+
   if (isOverviewLoading || !overview) {
     return (
-      <div style={{ padding: '32px', textAlign: 'center', color: 'var(--text-muted)' }}>
+      <div style={{ padding: '48px 32px', textAlign: 'center', color: 'var(--text-muted)' }}>
         Loading overview telemetry...
       </div>
     );

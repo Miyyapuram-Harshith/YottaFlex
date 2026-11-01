@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useVirtualizer } from '@tanstack/react-virtual';
 import { CheckCircle2, AlertTriangle, RefreshCw } from 'lucide-react';
@@ -33,7 +33,7 @@ export const EventLedgerPage: React.FC = () => {
     queryFn: api.getLedgerVerify,
   });
 
-  const allEvents: EventRow[] = eventsData?.data || [];
+  const allEvents: EventRow[] = eventsData?.data || eventsData?.records || [];
   const filteredEvents = allEvents.filter(e => {
     if (!entityFilter) return true;
     return (
@@ -42,6 +42,12 @@ export const EventLedgerPage: React.FC = () => {
       e.actor_id.toLowerCase().includes(entityFilter.toLowerCase())
     );
   });
+
+  useEffect(() => {
+    if ((!selectedEvent || !filteredEvents.some(e => e.event_id === selectedEvent.event_id)) && filteredEvents.length > 0) {
+      setSelectedEvent(filteredEvents[0]);
+    }
+  }, [filteredEvents, selectedEvent]);
 
   // Virtualizer for event ledger
   const parentRef = useRef<HTMLDivElement>(null);
@@ -112,7 +118,11 @@ export const EventLedgerPage: React.FC = () => {
             }}
           >
             {isLoading ? (
-              <div style={{ padding: '16px', color: 'var(--text-muted)' }}>Loading ledger events...</div>
+              <div style={{ padding: '24px', textAlign: 'center', color: 'var(--text-muted)' }}>Loading ledger events...</div>
+            ) : filteredEvents.length === 0 ? (
+              <div style={{ padding: '32px 16px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '13px' }}>
+                No events found matching filter.
+              </div>
             ) : (
               <div
                 style={{

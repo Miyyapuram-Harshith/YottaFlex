@@ -41,9 +41,11 @@ export const DataExplorerPage: React.FC = () => {
     setSearchParams({ table: currentTable, page: '1', search: searchInput });
   };
 
+  const rows = tableData?.data || tableData?.records || [];
+  const columns = rows.length > 0 ? Object.keys(rows[0]) : [];
+
   const handleExportCsv = () => {
-    if (!tableData?.data || tableData.data.length === 0) return;
-    const rows = tableData.data;
+    if (rows.length === 0) return;
     const cols = Object.keys(rows[0]);
     const csvContent = [
       cols.join(','),
@@ -58,9 +60,6 @@ export const DataExplorerPage: React.FC = () => {
     link.click();
     URL.revokeObjectURL(url);
   };
-
-  const rows = tableData?.data || [];
-  const columns = rows.length > 0 ? Object.keys(rows[0]) : [];
 
   return (
     <div>

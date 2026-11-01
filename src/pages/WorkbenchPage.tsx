@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useVirtualizer } from '@tanstack/react-virtual';
@@ -57,11 +57,17 @@ export const WorkbenchPage: React.FC = () => {
     enabled: Boolean(selectedId),
   });
 
-  const allRows: ReturnRequestRow[] = reqData?.data || [];
+  const allRows: ReturnRequestRow[] = reqData?.data || reqData?.records || [];
   const filteredRows = allRows.filter(r => {
     if (statusFilter === 'ALL') return true;
     return r.request_status === statusFilter;
   });
+
+  useEffect(() => {
+    if ((!selectedId || !filteredRows.some(r => r.return_request_id === selectedId)) && filteredRows.length > 0) {
+      setSelectedId(filteredRows[0].return_request_id);
+    }
+  }, [filteredRows, selectedId]);
 
   // Virtualizer for master table
   const parentRef = useRef<HTMLDivElement>(null);
@@ -154,7 +160,11 @@ export const WorkbenchPage: React.FC = () => {
             }}
           >
             {isLoading ? (
-              <div style={{ padding: '16px', color: 'var(--text-muted)' }}>Loading records...</div>
+              <div style={{ padding: '24px', textAlign: 'center', color: 'var(--text-muted)' }}>Loading return requests...</div>
+            ) : filteredRows.length === 0 ? (
+              <div style={{ padding: '32px 16px', textAlign: 'center', color: 'var(--text-muted)', fontSize: '13px' }}>
+                No return requests found.
+              </div>
             ) : (
               <div
                 style={{

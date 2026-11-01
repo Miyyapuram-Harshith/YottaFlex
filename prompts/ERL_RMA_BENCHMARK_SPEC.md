@@ -150,3 +150,4 @@ Every execution of `erl_rma_benchmark.py` performs an internal two-pass generati
 * **Zero PII / GDPR / DPDP Compliance:** No real-world customer names, street addresses, payment card numbers, carrier tracking numbers, or proprietary retail logs were accessed, scraped, or included.
 * **Schema Attribution:** Entity lifecycle patterns and retail accounting rules are conceptually aligned with public ISO/IEC/IEEE 29148:2018 Systems Engineering standards and public NRF/ARTS Operational Data Model conventions.
 * **License:** Released under dual **MIT / Apache-2.0 License** for unrestricted academic, enterprise QA, and machine-learning benchmark distribution.
+

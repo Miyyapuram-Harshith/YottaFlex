@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
 import {
   LayoutDashboard,
   RotateCcw,
@@ -13,7 +14,7 @@ import {
   UserCheck,
   ChevronRight
 } from 'lucide-react';
-import { getDemoIdentity, setDemoIdentity } from '../api/client';
+import { api, getDemoIdentity, setDemoIdentity } from '../api/client';
 
 export const AppShell: React.FC = () => {
   const location = useLocation();
@@ -32,6 +33,16 @@ export const AppShell: React.FC = () => {
 
   // Demo identity state
   const [identity, setIdentity] = useState(getDemoIdentity());
+
+  // Backend service health
+  const { data: healthData, isError: isHealthError } = useQuery({
+    queryKey: ['health'],
+    queryFn: api.getHealth,
+    refetchInterval: 8000,
+    retry: 1,
+  });
+
+  const isConnected = !isHealthError && Boolean(healthData?.database_connected);
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -150,7 +161,18 @@ export const AppShell: React.FC = () => {
                 )}
               </nav>
 
-              <span className="topbar-meta-env">Local · seed 20261022 · scale 1.0</span>
+              <span className="topbar-meta-env" style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                <span
+                  style={{
+                    display: 'inline-block',
+                    width: '7px',
+                    height: '7px',
+                    borderRadius: '50%',
+                    backgroundColor: isConnected ? 'var(--status-success)' : 'var(--status-danger)',
+                  }}
+                />
+                <span>{isConnected ? 'API Connected' : 'API Offline (Port 8000)'} · Seed 20261022</span>
+              </span>
             </div>
 
             <div className="topbar-right">
@@ -216,6 +238,26 @@ export const AppShell: React.FC = () => {
               </div>
             </div>
           </header>
+
+          {!isConnected && (
+            <div
+              style={{
+                backgroundColor: 'rgba(239, 68, 68, 0.08)',
+                borderBottom: '1px solid rgba(239, 68, 68, 0.25)',
+                padding: '6px 24px',
+                fontSize: '12px',
+                color: 'var(--status-danger)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'space-between',
+              }}
+            >
+              <span>
+                <strong>Backend Service Offline:</strong> Run <code>python3 api_server.py --port 8000</code> to connect live SQLite data.
+              </span>
+              <span style={{ fontSize: '11px', color: 'var(--text-muted)' }}>Auto-reconnecting every 8s</span>
+            </div>
+          )}
 
           {/* Routed Page Container */}
           <main className="page-container" role="main">

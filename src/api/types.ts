@@ -137,6 +137,7 @@ export interface TableQueryResponse<T = Record<string, unknown>> {
   total_rows: number;
   total_pages: number;
   data: T[];
+  records?: T[];
 }
 
 export interface LedgerVerifyResponse {

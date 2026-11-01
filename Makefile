@@ -1,9 +1,15 @@
-.PHONY: all test benchmark starter repro lint check clean
+.PHONY: all test benchmark starter repro lint check dev server clean
 
 PYTHON ?= python3
 NPM ?= npm
 
 all: test check
+
+server:
+	$(PYTHON) api_server.py --port 8000
+
+dev:
+	$(PYTHON) dev_server.py
 
 test:
 	$(PYTHON) -m unittest discover -s tests -p 'test_*.py'
