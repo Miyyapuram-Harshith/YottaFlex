@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/logo.png" alt="YottaFlex.ai" width="360" />
+</p>
+
 # YottaFlex: Enterprise Reverse Logistics & RMA Engine (ERL-RMA)
 
 An enterprise-grade, deterministic reverse logistics and return merchandise authorization platform featuring fixed-point financial proration, cryptographic policy adjudication, an append-only hash-chained state ledger, and an independent rule-conformance audit engine.

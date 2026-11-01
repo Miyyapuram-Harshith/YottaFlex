@@ -103,7 +103,13 @@ export const AppShell: React.FC = () => {
         {/* Left Vertical Nav (220px, stroke 1.5 icons) */}
         <aside className="app-sidebar" aria-label="Main Navigation">
           <div className="sidebar-header">
-            <span className="sidebar-brand-name">YottaFlex</span>
+            <NavLink to="/overview" style={{ display: 'flex', alignItems: 'center', textDecoration: 'none' }} title="YottaFlex Home">
+              <img
+                src="/logo.png"
+                alt="YottaFlex.ai"
+                className="sidebar-brand-logo"
+              />
+            </NavLink>
           </div>
 
           <nav className="sidebar-nav">

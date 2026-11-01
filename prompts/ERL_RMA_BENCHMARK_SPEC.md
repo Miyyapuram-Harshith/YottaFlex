@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../public/logo.png" alt="YottaFlex.ai" width="360" />
+</p>
+
 # ERL-RMA: Enterprise Reverse Logistics, RMA Governance & Synthetic Benchmark Engine
 
 [![Compliance](https://img.shields.io/badge/ISO%2FIEC%2FIEEE-29148%3A2018-blue.svg)](#)

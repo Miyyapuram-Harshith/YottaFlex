@@ -73,15 +73,24 @@ code, pre, .mono {
   padding: 0 var(--space-4);
   display: flex;
   align-items: center;
-  gap: var(--space-2);
   border-bottom: 1px solid var(--border);
 }
 
-.sidebar-brand-name {
-  font-size: 14px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  color: var(--text);
+.sidebar-brand-logo {
+  height: 26px;
+  width: auto;
+  max-width: 170px;
+  object-fit: contain;
+  display: block;
+  transition: opacity 150ms ease;
+}
+
+.sidebar-brand-logo:hover {
+  opacity: 0.88;
+}
+
+[data-theme="dark"] .sidebar-brand-logo {
+  filter: brightness(1.75) contrast(1.15) saturate(1.1);
 }
 
 .sidebar-nav {
