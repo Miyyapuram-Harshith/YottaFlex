@@ -144,3 +144,4 @@ npm run dev
 - [docs/DECISIONS.md](docs/DECISIONS.md) — Architectural Decision Records (ADRs).
 - [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) — Schema table specifications, column data types, and nullability.
 - [docs/CHANGELOG.md](docs/CHANGELOG.md) — Release history and migration notes.
+- [prompts/ERL_RMA_BENCHMARK_SPEC.md](prompts/ERL_RMA_BENCHMARK_SPEC.md) — Complete ISO/IEC/IEEE 29148:2018 benchmark specification prompt.

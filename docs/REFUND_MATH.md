@@ -77,3 +77,4 @@ $$\text{Net Refund} = \text{Base} + \text{Tax} - \text{Restock} + \text{Shipping
 ### Verification of Invariant
 $$6,975 \le 24,300 \implies \mathbf{PASS}$$
 When remaining 2 jackets are subsequently returned, slices receive `cum_2` and `cum_3`, exactly summing to the full `$243.00` without a single penny lost or gained.
+

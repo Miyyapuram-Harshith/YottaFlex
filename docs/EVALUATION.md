@@ -45,3 +45,4 @@ To evaluate real-world discrimination capability, the benchmark introduces a lar
 | `ANOM_DUPLICATE_REFUND` | 50 | 50 | 0 | 0 | 1.0000 | 1.0000 | 1.0000 |
 | **VALID_BOUNDARY (Hard Negatives)** | **1,112** | **0 (FP)** | **0** | **0** | **1.0000** | **1.0000** | **1.0000** |
 | **Overall Summary** | **250** | **250** | **0** | **0** | **1.0000** | **1.0000** | **1.0000** |
+

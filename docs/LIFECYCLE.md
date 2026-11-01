@@ -119,3 +119,4 @@ To prevent collusion and fraud in returns handling, the following role constrain
 Because `entity_state_events` and historical accounting records are immutable:
 - Historical states and timestamps are **never modified or deleted**.
 - If an operational defect or fraud is detected (e.g., duplicate refund or unauthorized override), a **compensating transaction** is posted (`REMEDIATION_HOLD`, `CHARGEBACK_INITIATED`, or `CREDIT_MEMO`) referencing the original entity identifier.
+

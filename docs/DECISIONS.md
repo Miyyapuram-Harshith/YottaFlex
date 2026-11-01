@@ -45,3 +45,4 @@
 - **Context**: The SQLite schema includes strict triggers (`trg_block_refund_overpayment`) to block over-refunds. However, the synthetic benchmark generator must inject known anomalies (`ANOM_REFUND_EXCEEDS_PAID`) into the database for detection testing.
 - **Decision**: Injected anomaly transactions use a special idempotency key prefix `ANOM-*`. The database trigger specifically enforces the invariant when `NEW.idempotency_key NOT LIKE 'ANOM-%'`.
 - **Consequences**: Operational transactions are strictly protected by database triggers while allowing deterministic benchmark anomaly injection.
+
