@@ -1,0 +1,39 @@
+{
+  "generator_version": "2.0.0",
+  "seed": 20261022,
+  "scale": 0.1,
+  "python_version": "3.9.6",
+  "as_of_date": "2026-11-01T00:00:00Z",
+  "external_data": [],
+  "source_manifest": "all data synthetic; no external sources, no PII",
+  "row_counts": {
+    "customers": 1000,
+    "orders": 3000,
+    "order_lines": 5857,
+    "return_requests": 500,
+    "return_lines": 800,
+    "return_authorizations": 467,
+    "return_shipments": 467,
+    "inspections": 676,
+    "refunds": 681,
+    "inventory_dispositions": 676,
+    "entity_state_events": 8270
+  },
+  "ground_truth_total": 148,
+  "sha256_checksums": {
+    "customers.csv": "7364b5bfc81c042381f33346e906145985e994137c5629867ba1d1b24924f357",
+    "orders.csv": "5afbda4aa858fe75d528f9f6c5b6f6536d26516604266d8b9f63d4327ec384de",
+    "order_lines.csv": "9b9aac15430f55e95b3acc9aeb0d5e6f55ee60be5cad6ed5011f5c307824b117",
+    "return_requests.csv": "dd2552bb65faa737667bb179ff165a51885c7e7217dfee26526bf256798ef9c2",
+    "return_lines.csv": "582e24e3e380bf75e9f2b455936502fa353d0c25973e9547d06f69fb57fefcbc",
+    "return_authorizations.csv": "822a7a6c991029d1c8f5696c69ed003a9977f0ed1ca0c75dd67677fc39f062a7",
+    "return_shipments.csv": "a2e9830830881ff14814a4de35fd5d0ec1e783f3168027f1936dba83d34bb362",
+    "inspections.csv": "4fbdf79676a1e83de3fc711eee23254905d687059c33c2f402f27f5371e596e7",
+    "refunds.csv": "ba2782bd08a31a7d72e7235efd98574792685e59ef372eb6e784ae2eaa4334b2",
+    "inventory_dispositions.csv": "32cf2c868b606a14b60225ee41d35496897da4147229adfbadb1dabf85527682",
+    "entity_state_events.csv": "089985535a77883fd13b4ac8ed8c121b533be23d3924269c8340cff050f57810",
+    "ground_truth.json": "3d07d37c0174920f4d45c8078c14d3f6b54aa44e25a40f317791591cffb7e275",
+    "ground_truth.csv": "d9de64f4467725bcb541ea1757c7dce47adac83e6560e05f975807716c544196",
+    "detections.json": "2648e3268ffac94e02ff90858e62d64d52696ee325c704b098c4d74c3c54aa08"
+  }
+}

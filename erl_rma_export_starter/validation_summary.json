@@ -1,0 +1,170 @@
+{
+  "status": "PASS",
+  "total_failures": 0,
+  "checks": {
+    "pk_uniqueness": {
+      "checked": 22394,
+      "failed": 0
+    },
+    "fk_integrity": {
+      "checked": 9857,
+      "failed": 0
+    },
+    "enum_validity": {
+      "checked": 0,
+      "failed": 0
+    },
+    "date_ordering": {
+      "checked": 0,
+      "failed": 0
+    },
+    "arithmetic_reconciliation": {
+      "checked": 3000,
+      "failed": 0
+    },
+    "lifecycle_legality": {
+      "checked": 0,
+      "failed": 0
+    },
+    "duplicate_checks": {
+      "checked": 0,
+      "failed": 0
+    },
+    "sod_checks": {
+      "checked": 681,
+      "failed": 0
+    }
+  },
+  "failures": [],
+  "seed": 20261022,
+  "scale": 0.1,
+  "row_counts": {
+    "customers": 1000,
+    "orders": 3000,
+    "order_lines": 5857,
+    "return_requests": 500,
+    "return_lines": 800,
+    "return_authorizations": 467,
+    "return_shipments": 467,
+    "inspections": 676,
+    "refunds": 681,
+    "inventory_dispositions": 676,
+    "entity_state_events": 8270
+  },
+  "evaluation": {
+    "per_class_metrics": {
+      "ANOM_QTY_EXCEEDS_PURCHASED": {
+        "issue_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "ANOM_LATE_RETURN_NO_OVERRIDE": {
+        "issue_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "ANOM_RESTOCK_BEFORE_INSP": {
+        "issue_type": "ANOM_RESTOCK_BEFORE_INSP",
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "ANOM_REFUND_EXCEEDS_PAID": {
+        "issue_type": "ANOM_REFUND_EXCEEDS_PAID",
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "ANOM_DUPLICATE_REFUND": {
+        "issue_type": "ANOM_DUPLICATE_REFUND",
+        "true_positives": 5,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      }
+    },
+    "overall_precision": 1.0,
+    "overall_recall": 1.0,
+    "overall_f1": 1.0,
+    "confusion_matrix": {
+      "ANOM_QTY_EXCEEDS_PURCHASED": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 5,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      },
+      "ANOM_LATE_RETURN_NO_OVERRIDE": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 5,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      },
+      "ANOM_RESTOCK_BEFORE_INSP": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 5,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      },
+      "ANOM_REFUND_EXCEEDS_PAID": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 5,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      },
+      "ANOM_DUPLICATE_REFUND": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 5,
+        "NORMAL": 0
+      },
+      "VALID_BOUNDARY": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      },
+      "NORMAL": {
+        "ANOM_QTY_EXCEEDS_PURCHASED": 0,
+        "ANOM_LATE_RETURN_NO_OVERRIDE": 0,
+        "ANOM_RESTOCK_BEFORE_INSP": 0,
+        "ANOM_REFUND_EXCEEDS_PAID": 0,
+        "ANOM_DUPLICATE_REFUND": 0,
+        "NORMAL": 0
+      }
+    },
+    "hard_negative_false_positive_count": 0,
+    "false_positives": [],
+    "false_negatives": [],
+    "total_anomalies_ground_truth": 25,
+    "total_valid_boundaries": 123,
+    "conformance_explanation": "Rule-engine conformance vs. ground truth: deterministic rules are expected to score 1.0 on injected rule violations. The operational robustness test is the hard-negative set (VALID_BOUNDARY), where false positive count must strictly remain 0."
+  }
+}

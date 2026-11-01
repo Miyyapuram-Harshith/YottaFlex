@@ -1,0 +1,4205 @@
+[
+  {
+    "shipment_id": "RTS-2026-000001",
+    "rma_id": "RMA-2026-000001",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000001",
+    "shipped_at": "2026-10-20T18:58:00Z",
+    "received_at": "2026-10-24T18:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000002",
+    "rma_id": "RMA-2026-000002",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000002",
+    "shipped_at": "2026-09-09T09:18:00Z",
+    "received_at": "2026-09-11T09:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000003",
+    "rma_id": "RMA-2026-000003",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000003",
+    "shipped_at": "2026-05-05T01:18:00Z",
+    "received_at": "2026-05-08T01:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000004",
+    "rma_id": "RMA-2026-000004",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000004",
+    "shipped_at": "2026-10-03T05:00:00Z",
+    "received_at": "2026-10-05T05:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000005",
+    "rma_id": "RMA-2026-000005",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000005",
+    "shipped_at": "2026-11-04T00:04:00Z",
+    "received_at": "2026-11-07T00:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000006",
+    "rma_id": "RMA-2026-000006",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000006",
+    "shipped_at": "2026-11-05T04:27:00Z",
+    "received_at": "2026-11-08T04:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000007",
+    "rma_id": "RMA-2026-000007",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000007",
+    "shipped_at": "2026-12-12T12:17:00Z",
+    "received_at": "2026-12-15T12:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000008",
+    "rma_id": "RMA-2026-000008",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000008",
+    "shipped_at": "2026-09-12T02:53:00Z",
+    "received_at": "2026-09-15T02:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000009",
+    "rma_id": "RMA-2026-000009",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000009",
+    "shipped_at": "2026-06-02T05:46:00Z",
+    "received_at": "2026-06-06T05:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000010",
+    "rma_id": "RMA-2026-000010",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000010",
+    "shipped_at": "2026-07-26T02:37:00Z",
+    "received_at": "2026-07-29T02:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000011",
+    "rma_id": "RMA-2026-000011",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000011",
+    "shipped_at": "2026-02-12T23:28:00Z",
+    "received_at": "2026-02-15T23:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000012",
+    "rma_id": "RMA-2026-000012",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000012",
+    "shipped_at": "2026-02-05T10:38:00Z",
+    "received_at": "2026-02-09T10:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000013",
+    "rma_id": "RMA-2026-000013",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000013",
+    "shipped_at": "2026-04-22T08:53:00Z",
+    "received_at": "2026-04-26T08:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000014",
+    "rma_id": "RMA-2026-000014",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000014",
+    "shipped_at": "2026-04-20T08:04:00Z",
+    "received_at": "2026-04-24T08:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000015",
+    "rma_id": "RMA-2026-000015",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000015",
+    "shipped_at": "2026-04-27T11:07:00Z",
+    "received_at": "2026-04-29T11:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000016",
+    "rma_id": "RMA-2026-000016",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000016",
+    "shipped_at": "2026-12-03T16:38:00Z",
+    "received_at": "2026-12-07T16:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000017",
+    "rma_id": "RMA-2026-000017",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000017",
+    "shipped_at": "2026-12-18T06:34:00Z",
+    "received_at": "2026-12-20T06:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000018",
+    "rma_id": "RMA-2026-000018",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000018",
+    "shipped_at": "2026-05-08T08:57:00Z",
+    "received_at": "2026-05-12T08:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000019",
+    "rma_id": "RMA-2026-000019",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000019",
+    "shipped_at": "2026-08-18T19:23:00Z",
+    "received_at": "2026-08-22T19:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000020",
+    "rma_id": "RMA-2026-000020",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000020",
+    "shipped_at": "2027-01-02T07:36:00Z",
+    "received_at": "2027-01-04T07:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000021",
+    "rma_id": "RMA-2026-000021",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000021",
+    "shipped_at": "2026-10-30T11:11:00Z",
+    "received_at": "2026-11-01T11:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000022",
+    "rma_id": "RMA-2026-000022",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000022",
+    "shipped_at": "2026-09-03T08:39:00Z",
+    "received_at": "2026-09-07T08:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000023",
+    "rma_id": "RMA-2026-000023",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000023",
+    "shipped_at": "2026-05-24T12:38:00Z",
+    "received_at": "2026-05-26T12:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000024",
+    "rma_id": "RMA-2026-000024",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000024",
+    "shipped_at": "2026-03-11T03:35:00Z",
+    "received_at": "2026-03-14T03:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000025",
+    "rma_id": "RMA-2026-000025",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000025",
+    "shipped_at": "2026-11-16T07:48:00Z",
+    "received_at": "2026-11-19T07:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000026",
+    "rma_id": "RMA-2026-000026",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000026",
+    "shipped_at": "2027-01-24T21:27:00Z",
+    "received_at": "2027-01-28T21:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000027",
+    "rma_id": "RMA-2026-000027",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000027",
+    "shipped_at": "2026-11-30T15:57:00Z",
+    "received_at": "2026-12-02T15:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000028",
+    "rma_id": "RMA-2026-000028",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000028",
+    "shipped_at": "2026-02-22T07:57:00Z",
+    "received_at": "2026-02-25T07:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000029",
+    "rma_id": "RMA-2026-000029",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000029",
+    "shipped_at": "2027-01-11T14:09:00Z",
+    "received_at": "2027-01-13T14:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000030",
+    "rma_id": "RMA-2026-000030",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000030",
+    "shipped_at": "2026-08-13T05:38:00Z",
+    "received_at": "2026-08-17T05:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000031",
+    "rma_id": "RMA-2026-000031",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000031",
+    "shipped_at": "2026-04-06T21:36:00Z",
+    "received_at": "2026-04-10T21:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000032",
+    "rma_id": "RMA-2026-000032",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000032",
+    "shipped_at": "2026-08-12T13:39:00Z",
+    "received_at": "2026-08-16T13:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000033",
+    "rma_id": "RMA-2026-000033",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000033",
+    "shipped_at": "2026-10-02T17:14:00Z",
+    "received_at": "2026-10-06T17:14:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000034",
+    "rma_id": "RMA-2026-000034",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000034",
+    "shipped_at": "2026-09-21T18:59:00Z",
+    "received_at": "2026-09-24T18:59:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000035",
+    "rma_id": "RMA-2026-000035",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000035",
+    "shipped_at": "2026-11-29T19:54:00Z",
+    "received_at": "2026-12-01T19:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000036",
+    "rma_id": "RMA-2026-000036",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000036",
+    "shipped_at": "2026-12-27T03:40:00Z",
+    "received_at": "2026-12-30T03:40:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000037",
+    "rma_id": "RMA-2026-000037",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000037",
+    "shipped_at": "2026-04-27T20:50:00Z",
+    "received_at": "2026-04-30T20:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000038",
+    "rma_id": "RMA-2026-000038",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000038",
+    "shipped_at": "2026-09-18T05:02:00Z",
+    "received_at": "2026-09-22T05:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000039",
+    "rma_id": "RMA-2026-000039",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000039",
+    "shipped_at": "2026-04-19T12:20:00Z",
+    "received_at": "2026-04-21T12:20:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000040",
+    "rma_id": "RMA-2026-000040",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000040",
+    "shipped_at": "2026-05-13T17:02:00Z",
+    "received_at": "2026-05-15T17:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000041",
+    "rma_id": "RMA-2026-000041",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000041",
+    "shipped_at": "2026-03-24T21:36:00Z",
+    "received_at": "2026-03-26T21:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000042",
+    "rma_id": "RMA-2026-000042",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000042",
+    "shipped_at": "2026-04-05T15:13:00Z",
+    "received_at": "2026-04-09T15:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000043",
+    "rma_id": "RMA-2026-000043",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000043",
+    "shipped_at": "2026-02-23T20:50:00Z",
+    "received_at": "2026-02-26T20:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000044",
+    "rma_id": "RMA-2026-000044",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000044",
+    "shipped_at": "2027-01-12T01:19:00Z",
+    "received_at": "2027-01-15T01:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000045",
+    "rma_id": "RMA-2026-000045",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000045",
+    "shipped_at": "2026-07-30T01:25:00Z",
+    "received_at": "2026-08-01T01:25:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000046",
+    "rma_id": "RMA-2026-000046",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000046",
+    "shipped_at": "2026-06-18T18:31:00Z",
+    "received_at": "2026-06-20T18:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000047",
+    "rma_id": "RMA-2026-000047",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000047",
+    "shipped_at": "2026-04-11T18:50:00Z",
+    "received_at": "2026-04-15T18:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000048",
+    "rma_id": "RMA-2026-000048",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000048",
+    "shipped_at": "2026-02-26T18:41:00Z",
+    "received_at": "2026-03-01T18:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000049",
+    "rma_id": "RMA-2026-000049",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000049",
+    "shipped_at": "2026-12-11T10:03:00Z",
+    "received_at": "2026-12-14T10:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000050",
+    "rma_id": "RMA-2026-000050",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000050",
+    "shipped_at": "2027-01-02T09:03:00Z",
+    "received_at": "2027-01-05T09:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000051",
+    "rma_id": "RMA-2026-000051",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000051",
+    "shipped_at": "2026-02-03T21:02:00Z",
+    "received_at": "2026-02-07T21:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000052",
+    "rma_id": "RMA-2026-000052",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000052",
+    "shipped_at": "2026-12-16T05:03:00Z",
+    "received_at": "2026-12-20T05:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000053",
+    "rma_id": "RMA-2026-000053",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000053",
+    "shipped_at": "2027-01-27T04:18:00Z",
+    "received_at": "2027-01-31T04:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000054",
+    "rma_id": "RMA-2026-000054",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000054",
+    "shipped_at": "2026-11-30T16:29:00Z",
+    "received_at": "2026-12-03T16:29:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000055",
+    "rma_id": "RMA-2026-000055",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000055",
+    "shipped_at": "2026-09-01T18:35:00Z",
+    "received_at": "2026-09-03T18:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000056",
+    "rma_id": "RMA-2026-000056",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000056",
+    "shipped_at": "2026-07-22T19:36:00Z",
+    "received_at": "2026-07-24T19:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000057",
+    "rma_id": "RMA-2026-000057",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000057",
+    "shipped_at": "2026-05-21T15:57:00Z",
+    "received_at": "2026-05-23T15:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000058",
+    "rma_id": "RMA-2026-000058",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000058",
+    "shipped_at": "2026-09-12T17:26:00Z",
+    "received_at": "2026-09-16T17:26:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000059",
+    "rma_id": "RMA-2026-000059",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000059",
+    "shipped_at": "2026-02-19T03:45:00Z",
+    "received_at": "2026-02-22T03:45:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000060",
+    "rma_id": "RMA-2026-000060",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000060",
+    "shipped_at": "2026-11-14T03:08:00Z",
+    "received_at": "2026-11-18T03:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000061",
+    "rma_id": "RMA-2026-000061",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000061",
+    "shipped_at": "2026-12-26T20:00:00Z",
+    "received_at": "2026-12-28T20:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000062",
+    "rma_id": "RMA-2026-000062",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000062",
+    "shipped_at": "2026-06-28T11:23:00Z",
+    "received_at": "2026-06-30T11:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000063",
+    "rma_id": "RMA-2026-000063",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000063",
+    "shipped_at": "2026-06-10T08:49:00Z",
+    "received_at": "2026-06-13T08:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000064",
+    "rma_id": "RMA-2026-000064",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000064",
+    "shipped_at": "2026-06-21T06:23:00Z",
+    "received_at": "2026-06-23T06:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000065",
+    "rma_id": "RMA-2026-000065",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000065",
+    "shipped_at": "2027-01-11T18:50:00Z",
+    "received_at": "2027-01-13T18:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000066",
+    "rma_id": "RMA-2026-000066",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000066",
+    "shipped_at": "2026-12-07T12:01:00Z",
+    "received_at": "2026-12-11T12:01:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000067",
+    "rma_id": "RMA-2026-000067",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000067",
+    "shipped_at": "2026-05-04T00:22:00Z",
+    "received_at": "2026-05-07T00:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000068",
+    "rma_id": "RMA-2026-000068",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000068",
+    "shipped_at": "2026-05-30T15:47:00Z",
+    "received_at": "2026-06-01T15:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000069",
+    "rma_id": "RMA-2026-000069",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000069",
+    "shipped_at": "2026-08-25T14:26:00Z",
+    "received_at": "2026-08-28T14:26:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000070",
+    "rma_id": "RMA-2026-000070",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000070",
+    "shipped_at": "2026-10-09T17:08:00Z",
+    "received_at": "2026-10-13T17:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000071",
+    "rma_id": "RMA-2026-000071",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000071",
+    "shipped_at": "2026-08-02T13:49:00Z",
+    "received_at": "2026-08-05T13:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000072",
+    "rma_id": "RMA-2026-000072",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000072",
+    "shipped_at": "2026-11-11T13:06:00Z",
+    "received_at": "2026-11-13T13:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000073",
+    "rma_id": "RMA-2026-000073",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000073",
+    "shipped_at": "2026-02-13T01:14:00Z",
+    "received_at": "2026-02-16T01:14:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000074",
+    "rma_id": "RMA-2026-000074",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000074",
+    "shipped_at": "2026-08-12T18:48:00Z",
+    "received_at": "2026-08-14T18:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000075",
+    "rma_id": "RMA-2026-000075",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000075",
+    "shipped_at": "2026-12-09T14:21:00Z",
+    "received_at": "2026-12-12T14:21:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000076",
+    "rma_id": "RMA-2026-000076",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000076",
+    "shipped_at": "2026-01-26T02:53:00Z",
+    "received_at": "2026-01-29T02:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000077",
+    "rma_id": "RMA-2026-000077",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000077",
+    "shipped_at": "2026-04-03T02:32:00Z",
+    "received_at": "2026-04-06T02:32:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000078",
+    "rma_id": "RMA-2026-000078",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000078",
+    "shipped_at": "2026-03-21T19:44:00Z",
+    "received_at": "2026-03-25T19:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000079",
+    "rma_id": "RMA-2026-000079",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000079",
+    "shipped_at": "2026-07-31T15:50:00Z",
+    "received_at": "2026-08-02T15:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000080",
+    "rma_id": "RMA-2026-000080",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000080",
+    "shipped_at": "2026-07-18T23:56:00Z",
+    "received_at": "2026-07-22T23:56:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000081",
+    "rma_id": "RMA-2026-000081",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000081",
+    "shipped_at": "2026-07-19T09:43:00Z",
+    "received_at": "2026-07-21T09:43:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000082",
+    "rma_id": "RMA-2026-000082",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000082",
+    "shipped_at": "2026-11-08T13:51:00Z",
+    "received_at": "2026-11-11T13:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000083",
+    "rma_id": "RMA-2026-000083",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000083",
+    "shipped_at": "2026-04-27T18:13:00Z",
+    "received_at": "2026-04-30T18:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000084",
+    "rma_id": "RMA-2026-000084",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000084",
+    "shipped_at": "2026-02-09T04:53:00Z",
+    "received_at": "2026-02-13T04:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000085",
+    "rma_id": "RMA-2026-000085",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000085",
+    "shipped_at": "2026-12-26T15:13:00Z",
+    "received_at": "2026-12-28T15:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000086",
+    "rma_id": "RMA-2026-000086",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000086",
+    "shipped_at": "2026-06-10T05:29:00Z",
+    "received_at": "2026-06-14T05:29:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000087",
+    "rma_id": "RMA-2026-000087",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000087",
+    "shipped_at": "2026-04-26T00:43:00Z",
+    "received_at": "2026-04-30T00:43:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000088",
+    "rma_id": "RMA-2026-000088",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000088",
+    "shipped_at": "2026-08-01T15:54:00Z",
+    "received_at": "2026-08-05T15:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000089",
+    "rma_id": "RMA-2026-000089",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000089",
+    "shipped_at": "2026-04-24T14:40:00Z",
+    "received_at": "2026-04-27T14:40:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000090",
+    "rma_id": "RMA-2026-000090",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000090",
+    "shipped_at": "2026-02-09T22:33:00Z",
+    "received_at": "2026-02-12T22:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000091",
+    "rma_id": "RMA-2026-000091",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000091",
+    "shipped_at": "2026-03-13T22:30:00Z",
+    "received_at": "2026-03-17T22:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000092",
+    "rma_id": "RMA-2026-000092",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000092",
+    "shipped_at": "2026-04-30T14:13:00Z",
+    "received_at": "2026-05-03T14:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000093",
+    "rma_id": "RMA-2026-000093",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000093",
+    "shipped_at": "2026-08-04T19:44:00Z",
+    "received_at": "2026-08-08T19:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000094",
+    "rma_id": "RMA-2026-000094",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000094",
+    "shipped_at": "2026-10-12T00:38:00Z",
+    "received_at": "2026-10-14T00:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000095",
+    "rma_id": "RMA-2026-000095",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000095",
+    "shipped_at": "2026-08-31T14:17:00Z",
+    "received_at": "2026-09-04T14:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000096",
+    "rma_id": "RMA-2026-000096",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000096",
+    "shipped_at": "2026-04-03T03:11:00Z",
+    "received_at": "2026-04-07T03:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000097",
+    "rma_id": "RMA-2026-000097",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000097",
+    "shipped_at": "2026-06-07T20:05:00Z",
+    "received_at": "2026-06-09T20:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000098",
+    "rma_id": "RMA-2026-000098",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000098",
+    "shipped_at": "2026-04-21T06:03:00Z",
+    "received_at": "2026-04-23T06:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000099",
+    "rma_id": "RMA-2026-000099",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000099",
+    "shipped_at": "2026-11-16T12:08:00Z",
+    "received_at": "2026-11-19T12:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000100",
+    "rma_id": "RMA-2026-000100",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000100",
+    "shipped_at": "2026-05-12T06:09:00Z",
+    "received_at": "2026-05-16T06:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000101",
+    "rma_id": "RMA-2026-000101",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000101",
+    "shipped_at": "2026-07-14T14:42:00Z",
+    "received_at": "2026-07-17T14:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000102",
+    "rma_id": "RMA-2026-000102",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000102",
+    "shipped_at": "2026-04-21T14:51:00Z",
+    "received_at": "2026-04-23T14:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000103",
+    "rma_id": "RMA-2026-000103",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000103",
+    "shipped_at": "2026-05-17T01:24:00Z",
+    "received_at": "2026-05-21T01:24:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000104",
+    "rma_id": "RMA-2026-000104",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000104",
+    "shipped_at": "2026-02-05T00:19:00Z",
+    "received_at": "2026-02-09T00:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000105",
+    "rma_id": "RMA-2026-000105",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000105",
+    "shipped_at": "2026-10-06T20:39:00Z",
+    "received_at": "2026-10-09T20:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000106",
+    "rma_id": "RMA-2026-000106",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000106",
+    "shipped_at": "2026-12-18T02:23:00Z",
+    "received_at": "2026-12-21T02:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000107",
+    "rma_id": "RMA-2026-000107",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000107",
+    "shipped_at": "2026-05-12T15:53:00Z",
+    "received_at": "2026-05-15T15:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000108",
+    "rma_id": "RMA-2026-000108",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000108",
+    "shipped_at": "2027-01-27T04:58:00Z",
+    "received_at": "2027-01-29T04:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000109",
+    "rma_id": "RMA-2026-000109",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000109",
+    "shipped_at": "2026-08-30T07:22:00Z",
+    "received_at": "2026-09-02T07:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000110",
+    "rma_id": "RMA-2026-000110",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000110",
+    "shipped_at": "2026-10-29T10:30:00Z",
+    "received_at": "2026-10-31T10:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000111",
+    "rma_id": "RMA-2026-000111",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000111",
+    "shipped_at": "2027-01-13T23:51:00Z",
+    "received_at": "2027-01-15T23:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000112",
+    "rma_id": "RMA-2026-000112",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000112",
+    "shipped_at": "2026-05-17T01:37:00Z",
+    "received_at": "2026-05-20T01:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000113",
+    "rma_id": "RMA-2026-000113",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000113",
+    "shipped_at": "2026-03-15T09:04:00Z",
+    "received_at": "2026-03-19T09:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000114",
+    "rma_id": "RMA-2026-000114",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000114",
+    "shipped_at": "2027-01-01T20:51:00Z",
+    "received_at": "2027-01-03T20:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000115",
+    "rma_id": "RMA-2026-000115",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000115",
+    "shipped_at": "2026-11-23T12:41:00Z",
+    "received_at": "2026-11-26T12:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000116",
+    "rma_id": "RMA-2026-000116",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000116",
+    "shipped_at": "2026-05-23T07:04:00Z",
+    "received_at": "2026-05-25T07:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000117",
+    "rma_id": "RMA-2026-000117",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000117",
+    "shipped_at": "2026-04-17T16:24:00Z",
+    "received_at": "2026-04-19T16:24:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000118",
+    "rma_id": "RMA-2026-000118",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000118",
+    "shipped_at": "2026-12-15T18:52:00Z",
+    "received_at": "2026-12-17T18:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000119",
+    "rma_id": "RMA-2026-000119",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000119",
+    "shipped_at": "2026-12-02T20:54:00Z",
+    "received_at": "2026-12-06T20:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000120",
+    "rma_id": "RMA-2026-000120",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000120",
+    "shipped_at": "2026-11-19T06:24:00Z",
+    "received_at": "2026-11-22T06:24:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000121",
+    "rma_id": "RMA-2026-000121",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000121",
+    "shipped_at": "2027-01-20T00:04:00Z",
+    "received_at": "2027-01-22T00:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000122",
+    "rma_id": "RMA-2026-000122",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000122",
+    "shipped_at": "2026-02-17T02:46:00Z",
+    "received_at": "2026-02-21T02:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000123",
+    "rma_id": "RMA-2026-000123",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000123",
+    "shipped_at": "2026-09-13T12:12:00Z",
+    "received_at": "2026-09-15T12:12:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000124",
+    "rma_id": "RMA-2026-000124",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000124",
+    "shipped_at": "2027-01-15T06:11:00Z",
+    "received_at": "2027-01-18T06:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000125",
+    "rma_id": "RMA-2026-000125",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000125",
+    "shipped_at": "2026-12-13T05:25:00Z",
+    "received_at": "2026-12-17T05:25:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000126",
+    "rma_id": "RMA-2026-000126",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000126",
+    "shipped_at": "2026-12-24T17:38:00Z",
+    "received_at": "2026-12-27T17:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000127",
+    "rma_id": "RMA-2026-000127",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000127",
+    "shipped_at": "2026-11-12T05:38:00Z",
+    "received_at": "2026-11-14T05:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000128",
+    "rma_id": "RMA-2026-000128",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000128",
+    "shipped_at": "2026-03-19T12:43:00Z",
+    "received_at": "2026-03-22T12:43:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000129",
+    "rma_id": "RMA-2026-000129",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000129",
+    "shipped_at": "2026-10-23T07:58:00Z",
+    "received_at": "2026-10-25T07:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000130",
+    "rma_id": "RMA-2026-000130",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000130",
+    "shipped_at": "2026-12-21T16:46:00Z",
+    "received_at": "2026-12-24T16:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000131",
+    "rma_id": "RMA-2026-000131",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000131",
+    "shipped_at": "2026-09-11T22:57:00Z",
+    "received_at": "2026-09-13T22:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000132",
+    "rma_id": "RMA-2026-000132",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000132",
+    "shipped_at": "2026-11-13T00:50:00Z",
+    "received_at": "2026-11-16T00:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000133",
+    "rma_id": "RMA-2026-000133",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000133",
+    "shipped_at": "2026-12-10T14:17:00Z",
+    "received_at": "2026-12-13T14:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000134",
+    "rma_id": "RMA-2026-000134",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000134",
+    "shipped_at": "2026-07-12T20:23:00Z",
+    "received_at": "2026-07-16T20:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000135",
+    "rma_id": "RMA-2026-000135",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000135",
+    "shipped_at": "2026-09-12T12:06:00Z",
+    "received_at": "2026-09-16T12:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000136",
+    "rma_id": "RMA-2026-000136",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000136",
+    "shipped_at": "2027-01-16T13:07:00Z",
+    "received_at": "2027-01-18T13:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000137",
+    "rma_id": "RMA-2026-000137",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000137",
+    "shipped_at": "2026-07-21T17:49:00Z",
+    "received_at": "2026-07-24T17:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000138",
+    "rma_id": "RMA-2026-000138",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000138",
+    "shipped_at": "2026-09-18T19:08:00Z",
+    "received_at": "2026-09-21T19:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000139",
+    "rma_id": "RMA-2026-000139",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000139",
+    "shipped_at": "2026-03-20T15:23:00Z",
+    "received_at": "2026-03-23T15:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000140",
+    "rma_id": "RMA-2026-000140",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000140",
+    "shipped_at": "2026-10-08T17:06:00Z",
+    "received_at": "2026-10-11T17:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000141",
+    "rma_id": "RMA-2026-000141",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000141",
+    "shipped_at": "2026-12-24T10:25:00Z",
+    "received_at": "2026-12-28T10:25:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000142",
+    "rma_id": "RMA-2026-000142",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000142",
+    "shipped_at": "2026-07-24T11:46:00Z",
+    "received_at": "2026-07-27T11:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000143",
+    "rma_id": "RMA-2026-000143",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000143",
+    "shipped_at": "2026-02-26T16:33:00Z",
+    "received_at": "2026-02-28T16:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000144",
+    "rma_id": "RMA-2026-000144",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000144",
+    "shipped_at": "2026-04-17T09:27:00Z",
+    "received_at": "2026-04-20T09:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000145",
+    "rma_id": "RMA-2026-000145",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000145",
+    "shipped_at": "2026-08-15T15:32:00Z",
+    "received_at": "2026-08-18T15:32:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000146",
+    "rma_id": "RMA-2026-000146",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000146",
+    "shipped_at": "2026-03-09T06:56:00Z",
+    "received_at": "2026-03-13T06:56:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000147",
+    "rma_id": "RMA-2026-000147",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000147",
+    "shipped_at": "2026-11-29T09:44:00Z",
+    "received_at": "2026-12-03T09:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000148",
+    "rma_id": "RMA-2026-000148",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000148",
+    "shipped_at": "2026-06-07T14:36:00Z",
+    "received_at": "2026-06-11T14:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000149",
+    "rma_id": "RMA-2026-000149",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000149",
+    "shipped_at": "2026-12-05T11:33:00Z",
+    "received_at": "2026-12-08T11:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000150",
+    "rma_id": "RMA-2026-000150",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000150",
+    "shipped_at": "2026-11-21T22:47:00Z",
+    "received_at": "2026-11-23T22:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000151",
+    "rma_id": "RMA-2026-000151",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000151",
+    "shipped_at": "2026-04-13T13:12:00Z",
+    "received_at": "2026-04-17T13:12:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000152",
+    "rma_id": "RMA-2026-000152",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000152",
+    "shipped_at": "2026-05-20T04:30:00Z",
+    "received_at": "2026-05-22T04:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000153",
+    "rma_id": "RMA-2026-000153",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000153",
+    "shipped_at": "2026-03-07T22:48:00Z",
+    "received_at": "2026-03-11T22:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000154",
+    "rma_id": "RMA-2026-000154",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000154",
+    "shipped_at": "2026-12-09T17:57:00Z",
+    "received_at": "2026-12-12T17:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000155",
+    "rma_id": "RMA-2026-000155",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000155",
+    "shipped_at": "2026-11-06T09:14:00Z",
+    "received_at": "2026-11-10T09:14:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000156",
+    "rma_id": "RMA-2026-000156",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000156",
+    "shipped_at": "2026-12-10T00:36:00Z",
+    "received_at": "2026-12-13T00:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000157",
+    "rma_id": "RMA-2026-000157",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000157",
+    "shipped_at": "2026-03-23T00:08:00Z",
+    "received_at": "2026-03-25T00:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000158",
+    "rma_id": "RMA-2026-000158",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000158",
+    "shipped_at": "2026-05-27T18:55:00Z",
+    "received_at": "2026-05-30T18:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000159",
+    "rma_id": "RMA-2026-000159",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000159",
+    "shipped_at": "2026-07-21T15:51:00Z",
+    "received_at": "2026-07-23T15:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000160",
+    "rma_id": "RMA-2026-000160",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000160",
+    "shipped_at": "2026-03-29T21:15:00Z",
+    "received_at": "2026-03-31T21:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000161",
+    "rma_id": "RMA-2026-000161",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000161",
+    "shipped_at": "2026-04-25T14:48:00Z",
+    "received_at": "2026-04-29T14:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000162",
+    "rma_id": "RMA-2026-000162",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000162",
+    "shipped_at": "2026-10-26T13:15:00Z",
+    "received_at": "2026-10-28T13:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000163",
+    "rma_id": "RMA-2026-000163",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000163",
+    "shipped_at": "2026-08-09T17:19:00Z",
+    "received_at": "2026-08-12T17:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000164",
+    "rma_id": "RMA-2026-000164",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000164",
+    "shipped_at": "2026-04-28T06:39:00Z",
+    "received_at": "2026-04-30T06:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000165",
+    "rma_id": "RMA-2026-000165",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000165",
+    "shipped_at": "2026-04-01T14:02:00Z",
+    "received_at": "2026-04-05T14:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000166",
+    "rma_id": "RMA-2026-000166",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000166",
+    "shipped_at": "2026-05-16T20:23:00Z",
+    "received_at": "2026-05-19T20:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000167",
+    "rma_id": "RMA-2026-000167",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000167",
+    "shipped_at": "2026-05-16T22:50:00Z",
+    "received_at": "2026-05-18T22:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000168",
+    "rma_id": "RMA-2026-000168",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000168",
+    "shipped_at": "2026-12-05T09:34:00Z",
+    "received_at": "2026-12-09T09:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000169",
+    "rma_id": "RMA-2026-000169",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000169",
+    "shipped_at": "2026-05-10T02:05:00Z",
+    "received_at": "2026-05-12T02:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000170",
+    "rma_id": "RMA-2026-000170",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000170",
+    "shipped_at": "2026-03-08T10:38:00Z",
+    "received_at": "2026-03-11T10:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000171",
+    "rma_id": "RMA-2026-000171",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000171",
+    "shipped_at": "2026-06-01T02:10:00Z",
+    "received_at": "2026-06-03T02:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000172",
+    "rma_id": "RMA-2026-000172",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000172",
+    "shipped_at": "2026-02-02T04:53:00Z",
+    "received_at": "2026-02-06T04:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000173",
+    "rma_id": "RMA-2026-000173",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000173",
+    "shipped_at": "2026-10-15T23:22:00Z",
+    "received_at": "2026-10-17T23:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000174",
+    "rma_id": "RMA-2026-000174",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000174",
+    "shipped_at": "2026-09-13T06:19:00Z",
+    "received_at": "2026-09-15T06:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000175",
+    "rma_id": "RMA-2026-000175",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000175",
+    "shipped_at": "2026-04-03T04:50:00Z",
+    "received_at": "2026-04-07T04:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000176",
+    "rma_id": "RMA-2026-000176",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000176",
+    "shipped_at": "2026-05-01T14:54:00Z",
+    "received_at": "2026-05-05T14:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000177",
+    "rma_id": "RMA-2026-000177",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000177",
+    "shipped_at": "2026-05-24T18:16:00Z",
+    "received_at": "2026-05-27T18:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000178",
+    "rma_id": "RMA-2026-000178",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000178",
+    "shipped_at": "2026-06-13T07:04:00Z",
+    "received_at": "2026-06-15T07:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000179",
+    "rma_id": "RMA-2026-000179",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000179",
+    "shipped_at": "2026-11-24T17:49:00Z",
+    "received_at": "2026-11-26T17:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000180",
+    "rma_id": "RMA-2026-000180",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000180",
+    "shipped_at": "2026-08-30T19:33:00Z",
+    "received_at": "2026-09-02T19:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000181",
+    "rma_id": "RMA-2026-000181",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000181",
+    "shipped_at": "2026-01-28T14:59:00Z",
+    "received_at": "2026-01-31T14:59:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000182",
+    "rma_id": "RMA-2026-000182",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000182",
+    "shipped_at": "2026-10-13T05:22:00Z",
+    "received_at": "2026-10-17T05:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000183",
+    "rma_id": "RMA-2026-000183",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000183",
+    "shipped_at": "2026-07-01T06:10:00Z",
+    "received_at": "2026-07-04T06:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000184",
+    "rma_id": "RMA-2026-000184",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000184",
+    "shipped_at": "2026-11-12T03:48:00Z",
+    "received_at": "2026-11-15T03:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000185",
+    "rma_id": "RMA-2026-000185",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000185",
+    "shipped_at": "2026-08-09T12:40:00Z",
+    "received_at": "2026-08-12T12:40:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000186",
+    "rma_id": "RMA-2026-000186",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000186",
+    "shipped_at": "2026-10-21T21:35:00Z",
+    "received_at": "2026-10-25T21:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000187",
+    "rma_id": "RMA-2026-000187",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000187",
+    "shipped_at": "2026-03-16T10:19:00Z",
+    "received_at": "2026-03-18T10:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000188",
+    "rma_id": "RMA-2026-000188",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000188",
+    "shipped_at": "2026-05-06T08:54:00Z",
+    "received_at": "2026-05-10T08:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000189",
+    "rma_id": "RMA-2026-000189",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000189",
+    "shipped_at": "2026-11-15T14:06:00Z",
+    "received_at": "2026-11-19T14:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000190",
+    "rma_id": "RMA-2026-000190",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000190",
+    "shipped_at": "2026-07-21T08:01:00Z",
+    "received_at": "2026-07-23T08:01:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000191",
+    "rma_id": "RMA-2026-000191",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000191",
+    "shipped_at": "2026-03-15T01:27:00Z",
+    "received_at": "2026-03-17T01:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000192",
+    "rma_id": "RMA-2026-000192",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000192",
+    "shipped_at": "2026-09-11T21:06:00Z",
+    "received_at": "2026-09-15T21:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000193",
+    "rma_id": "RMA-2026-000193",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000193",
+    "shipped_at": "2026-04-09T22:44:00Z",
+    "received_at": "2026-04-12T22:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000194",
+    "rma_id": "RMA-2026-000194",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000194",
+    "shipped_at": "2026-06-13T17:45:00Z",
+    "received_at": "2026-06-17T17:45:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000195",
+    "rma_id": "RMA-2026-000195",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000195",
+    "shipped_at": "2026-11-14T09:34:00Z",
+    "received_at": "2026-11-18T09:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000196",
+    "rma_id": "RMA-2026-000196",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000196",
+    "shipped_at": "2026-12-17T22:54:00Z",
+    "received_at": "2026-12-19T22:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000197",
+    "rma_id": "RMA-2026-000197",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000197",
+    "shipped_at": "2026-08-01T22:03:00Z",
+    "received_at": "2026-08-05T22:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000198",
+    "rma_id": "RMA-2026-000198",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000198",
+    "shipped_at": "2026-06-22T02:00:00Z",
+    "received_at": "2026-06-26T02:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000199",
+    "rma_id": "RMA-2026-000199",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000199",
+    "shipped_at": "2027-01-06T15:23:00Z",
+    "received_at": "2027-01-09T15:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000200",
+    "rma_id": "RMA-2026-000200",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000200",
+    "shipped_at": "2026-02-13T17:02:00Z",
+    "received_at": "2026-02-17T17:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000201",
+    "rma_id": "RMA-2026-000201",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000201",
+    "shipped_at": "2027-01-02T10:29:00Z",
+    "received_at": "2027-01-06T10:29:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000202",
+    "rma_id": "RMA-2026-000202",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000202",
+    "shipped_at": "2026-03-23T09:41:00Z",
+    "received_at": "2026-03-26T09:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000203",
+    "rma_id": "RMA-2026-000203",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000203",
+    "shipped_at": "2026-12-10T03:31:00Z",
+    "received_at": "2026-12-13T03:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000204",
+    "rma_id": "RMA-2026-000204",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000204",
+    "shipped_at": "2026-10-26T21:22:00Z",
+    "received_at": "2026-10-29T21:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000205",
+    "rma_id": "RMA-2026-000205",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000205",
+    "shipped_at": "2026-06-21T03:47:00Z",
+    "received_at": "2026-06-24T03:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000206",
+    "rma_id": "RMA-2026-000206",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000206",
+    "shipped_at": "2026-06-14T15:34:00Z",
+    "received_at": "2026-06-18T15:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000207",
+    "rma_id": "RMA-2026-000207",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000207",
+    "shipped_at": "2027-01-06T22:55:00Z",
+    "received_at": "2027-01-09T22:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000208",
+    "rma_id": "RMA-2026-000208",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000208",
+    "shipped_at": "2026-12-05T14:40:00Z",
+    "received_at": "2026-12-08T14:40:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000209",
+    "rma_id": "RMA-2026-000209",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000209",
+    "shipped_at": "2026-05-13T11:02:00Z",
+    "received_at": "2026-05-16T11:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000210",
+    "rma_id": "RMA-2026-000210",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000210",
+    "shipped_at": "2026-08-06T08:05:00Z",
+    "received_at": "2026-08-10T08:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000211",
+    "rma_id": "RMA-2026-000211",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000211",
+    "shipped_at": "2026-03-24T19:34:00Z",
+    "received_at": "2026-03-27T19:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000212",
+    "rma_id": "RMA-2026-000212",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000212",
+    "shipped_at": "2026-12-03T00:30:00Z",
+    "received_at": "2026-12-05T00:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000213",
+    "rma_id": "RMA-2026-000213",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000213",
+    "shipped_at": "2026-03-07T07:45:00Z",
+    "received_at": "2026-03-09T07:45:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000214",
+    "rma_id": "RMA-2026-000214",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000214",
+    "shipped_at": "2026-10-21T03:01:00Z",
+    "received_at": "2026-10-24T03:01:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000215",
+    "rma_id": "RMA-2026-000215",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000215",
+    "shipped_at": "2026-11-17T20:11:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000216",
+    "rma_id": "RMA-2026-000216",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000216",
+    "shipped_at": "2026-12-13T12:57:00Z",
+    "received_at": "2026-12-16T12:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000217",
+    "rma_id": "RMA-2026-000217",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000217",
+    "shipped_at": "2026-09-30T17:00:00Z",
+    "received_at": "2026-10-04T17:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000218",
+    "rma_id": "RMA-2026-000218",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000218",
+    "shipped_at": "2026-08-15T04:11:00Z",
+    "received_at": "2026-08-19T04:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000219",
+    "rma_id": "RMA-2026-000219",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000219",
+    "shipped_at": "2026-05-21T21:55:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000220",
+    "rma_id": "RMA-2026-000220",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000220",
+    "shipped_at": "2026-04-08T07:51:00Z",
+    "received_at": "2026-04-11T07:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000221",
+    "rma_id": "RMA-2026-000221",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000221",
+    "shipped_at": "2026-02-01T06:44:00Z",
+    "received_at": "2026-02-05T06:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000222",
+    "rma_id": "RMA-2026-000222",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000222",
+    "shipped_at": "2026-03-30T11:45:00Z",
+    "received_at": "2026-04-02T11:45:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000223",
+    "rma_id": "RMA-2026-000223",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000223",
+    "shipped_at": "2026-04-09T00:39:00Z",
+    "received_at": "2026-04-11T00:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000224",
+    "rma_id": "RMA-2026-000224",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000224",
+    "shipped_at": "2026-08-02T14:37:00Z",
+    "received_at": "2026-08-06T14:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000225",
+    "rma_id": "RMA-2026-000225",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000225",
+    "shipped_at": "2026-05-03T14:30:00Z",
+    "received_at": "2026-05-05T14:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000226",
+    "rma_id": "RMA-2026-000226",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000226",
+    "shipped_at": "2026-11-29T20:31:00Z",
+    "received_at": "2026-12-02T20:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000227",
+    "rma_id": "RMA-2026-000227",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000227",
+    "shipped_at": "2026-08-10T04:25:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000228",
+    "rma_id": "RMA-2026-000228",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000228",
+    "shipped_at": "2026-03-17T08:42:00Z",
+    "received_at": "2026-03-19T08:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000229",
+    "rma_id": "RMA-2026-000229",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000229",
+    "shipped_at": "2026-04-23T08:56:00Z",
+    "received_at": "2026-04-27T08:56:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000230",
+    "rma_id": "RMA-2026-000230",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000230",
+    "shipped_at": "2026-05-15T02:15:00Z",
+    "received_at": "2026-05-18T02:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000231",
+    "rma_id": "RMA-2026-000231",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000231",
+    "shipped_at": "2027-01-09T00:16:00Z",
+    "received_at": "2027-01-13T00:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000232",
+    "rma_id": "RMA-2026-000232",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000232",
+    "shipped_at": "2026-06-25T15:27:00Z",
+    "received_at": "2026-06-29T15:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000233",
+    "rma_id": "RMA-2026-000233",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000233",
+    "shipped_at": "2026-06-29T17:23:00Z",
+    "received_at": "2026-07-01T17:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000234",
+    "rma_id": "RMA-2026-000234",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000234",
+    "shipped_at": "2026-12-02T11:50:00Z",
+    "received_at": "2026-12-06T11:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000235",
+    "rma_id": "RMA-2026-000235",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000235",
+    "shipped_at": "2026-09-11T23:31:00Z",
+    "received_at": "2026-09-15T23:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000236",
+    "rma_id": "RMA-2026-000236",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000236",
+    "shipped_at": "2026-05-25T04:19:00Z",
+    "received_at": "2026-05-28T04:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000237",
+    "rma_id": "RMA-2026-000237",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000237",
+    "shipped_at": "2027-01-04T23:07:00Z",
+    "received_at": "2027-01-07T23:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000238",
+    "rma_id": "RMA-2026-000238",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000238",
+    "shipped_at": "2026-08-03T13:28:00Z",
+    "received_at": "2026-08-05T13:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000239",
+    "rma_id": "RMA-2026-000239",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000239",
+    "shipped_at": "2026-09-29T09:04:00Z",
+    "received_at": "2026-10-03T09:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000240",
+    "rma_id": "RMA-2026-000240",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000240",
+    "shipped_at": "2026-03-06T16:48:00Z",
+    "received_at": "2026-03-10T16:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000241",
+    "rma_id": "RMA-2026-000241",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000241",
+    "shipped_at": "2026-05-09T15:06:00Z",
+    "received_at": "2026-05-11T15:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000242",
+    "rma_id": "RMA-2026-000242",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000242",
+    "shipped_at": "2026-11-27T08:50:00Z",
+    "received_at": "2026-12-01T08:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000243",
+    "rma_id": "RMA-2026-000243",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000243",
+    "shipped_at": "2026-12-25T03:25:00Z",
+    "received_at": "2026-12-29T03:25:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000244",
+    "rma_id": "RMA-2026-000244",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000244",
+    "shipped_at": "2026-03-04T02:21:00Z",
+    "received_at": "2026-03-07T02:21:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000245",
+    "rma_id": "RMA-2026-000245",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000245",
+    "shipped_at": "2026-10-08T18:47:00Z",
+    "received_at": "2026-10-11T18:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000246",
+    "rma_id": "RMA-2026-000246",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000246",
+    "shipped_at": "2026-11-20T06:41:00Z",
+    "received_at": "2026-11-23T06:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000247",
+    "rma_id": "RMA-2026-000247",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000247",
+    "shipped_at": "2027-01-03T13:57:00Z",
+    "received_at": "2027-01-07T13:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000248",
+    "rma_id": "RMA-2026-000248",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000248",
+    "shipped_at": "2026-02-07T11:16:00Z",
+    "received_at": "2026-02-10T11:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000249",
+    "rma_id": "RMA-2026-000249",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000249",
+    "shipped_at": "2026-06-24T19:05:00Z",
+    "received_at": "2026-06-28T19:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000250",
+    "rma_id": "RMA-2026-000250",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000250",
+    "shipped_at": "2026-08-27T16:08:00Z",
+    "received_at": "2026-08-31T16:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000251",
+    "rma_id": "RMA-2026-000251",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000251",
+    "shipped_at": "2026-09-01T12:20:00Z",
+    "received_at": "2026-09-03T12:20:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000252",
+    "rma_id": "RMA-2026-000252",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000252",
+    "shipped_at": "2026-11-02T05:55:00Z",
+    "received_at": "2026-11-05T05:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000253",
+    "rma_id": "RMA-2026-000253",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000253",
+    "shipped_at": "2026-04-29T03:36:00Z",
+    "received_at": "2026-05-02T03:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000254",
+    "rma_id": "RMA-2026-000254",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000254",
+    "shipped_at": "2026-07-27T04:42:00Z",
+    "received_at": "2026-07-29T04:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000255",
+    "rma_id": "RMA-2026-000255",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000255",
+    "shipped_at": "2026-09-25T23:52:00Z",
+    "received_at": "2026-09-28T23:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000256",
+    "rma_id": "RMA-2026-000256",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000256",
+    "shipped_at": "2026-10-25T23:50:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000257",
+    "rma_id": "RMA-2026-000257",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000257",
+    "shipped_at": "2026-06-29T18:50:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000258",
+    "rma_id": "RMA-2026-000258",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000258",
+    "shipped_at": "2026-08-14T22:38:00Z",
+    "received_at": "2026-08-16T22:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000259",
+    "rma_id": "RMA-2026-000259",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000259",
+    "shipped_at": "2026-10-13T14:10:00Z",
+    "received_at": "2026-10-16T14:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000260",
+    "rma_id": "RMA-2026-000260",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000260",
+    "shipped_at": "2026-03-12T00:18:00Z",
+    "received_at": "2026-03-14T00:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000261",
+    "rma_id": "RMA-2026-000261",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000261",
+    "shipped_at": "2026-04-18T21:19:00Z",
+    "received_at": "2026-04-22T21:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000262",
+    "rma_id": "RMA-2026-000262",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000262",
+    "shipped_at": "2026-09-10T17:17:00Z",
+    "received_at": "2026-09-12T17:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000263",
+    "rma_id": "RMA-2026-000263",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000263",
+    "shipped_at": "2026-09-30T23:34:00Z",
+    "received_at": "2026-10-03T23:34:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000264",
+    "rma_id": "RMA-2026-000264",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000264",
+    "shipped_at": "2026-08-14T15:37:00Z",
+    "received_at": "2026-08-17T15:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000265",
+    "rma_id": "RMA-2026-000265",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000265",
+    "shipped_at": "2026-04-18T17:03:00Z",
+    "received_at": "2026-04-22T17:03:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000266",
+    "rma_id": "RMA-2026-000266",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000266",
+    "shipped_at": "2026-05-04T01:20:00Z",
+    "received_at": "2026-05-06T01:20:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000267",
+    "rma_id": "RMA-2026-000267",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000267",
+    "shipped_at": "2026-03-18T18:55:00Z",
+    "received_at": "2026-03-22T18:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000268",
+    "rma_id": "RMA-2026-000268",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000268",
+    "shipped_at": "2026-12-12T20:59:00Z",
+    "received_at": "2026-12-14T20:59:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000269",
+    "rma_id": "RMA-2026-000269",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000269",
+    "shipped_at": "2026-12-12T00:55:00Z",
+    "received_at": "2026-12-14T00:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000270",
+    "rma_id": "RMA-2026-000270",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000270",
+    "shipped_at": "2026-11-27T20:32:00Z",
+    "received_at": "2026-11-30T20:32:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000271",
+    "rma_id": "RMA-2026-000271",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000271",
+    "shipped_at": "2026-10-01T12:48:00Z",
+    "received_at": "2026-10-05T12:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000272",
+    "rma_id": "RMA-2026-000272",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000272",
+    "shipped_at": "2026-05-24T01:58:00Z",
+    "received_at": "2026-05-28T01:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000273",
+    "rma_id": "RMA-2026-000273",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000273",
+    "shipped_at": "2026-02-14T23:42:00Z",
+    "received_at": "2026-02-16T23:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000274",
+    "rma_id": "RMA-2026-000274",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000274",
+    "shipped_at": "2026-04-02T05:39:00Z",
+    "received_at": "2026-04-05T05:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000275",
+    "rma_id": "RMA-2026-000275",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000275",
+    "shipped_at": "2026-12-02T23:52:00Z",
+    "received_at": "2026-12-06T23:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000276",
+    "rma_id": "RMA-2026-000276",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000276",
+    "shipped_at": "2026-02-06T21:22:00Z",
+    "received_at": "2026-02-08T21:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000277",
+    "rma_id": "RMA-2026-000277",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000277",
+    "shipped_at": "2027-01-23T09:57:00Z",
+    "received_at": "2027-01-27T09:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000278",
+    "rma_id": "RMA-2026-000278",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000278",
+    "shipped_at": "2026-08-24T15:47:00Z",
+    "received_at": "2026-08-27T15:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000279",
+    "rma_id": "RMA-2026-000279",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000279",
+    "shipped_at": "2026-12-07T10:53:00Z",
+    "received_at": "2026-12-10T10:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000280",
+    "rma_id": "RMA-2026-000280",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000280",
+    "shipped_at": "2026-04-09T11:53:00Z",
+    "received_at": "2026-04-12T11:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000281",
+    "rma_id": "RMA-2026-000281",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000281",
+    "shipped_at": "2026-07-27T18:55:00Z",
+    "received_at": "2026-07-31T18:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000282",
+    "rma_id": "RMA-2026-000282",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000282",
+    "shipped_at": "2027-01-03T23:10:00Z",
+    "received_at": "2027-01-06T23:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000283",
+    "rma_id": "RMA-2026-000283",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000283",
+    "shipped_at": "2026-03-21T03:02:00Z",
+    "received_at": "2026-03-24T03:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000284",
+    "rma_id": "RMA-2026-000284",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000284",
+    "shipped_at": "2026-07-27T03:55:00Z",
+    "received_at": "2026-07-29T03:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000285",
+    "rma_id": "RMA-2026-000285",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000285",
+    "shipped_at": "2026-02-16T04:23:00Z",
+    "received_at": "2026-02-19T04:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000286",
+    "rma_id": "RMA-2026-000286",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000286",
+    "shipped_at": "2027-01-14T18:46:00Z",
+    "received_at": "2027-01-18T18:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000287",
+    "rma_id": "RMA-2026-000287",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000287",
+    "shipped_at": "2026-05-09T00:11:00Z",
+    "received_at": "2026-05-13T00:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000288",
+    "rma_id": "RMA-2026-000288",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000288",
+    "shipped_at": "2026-12-04T11:52:00Z",
+    "received_at": "2026-12-07T11:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000289",
+    "rma_id": "RMA-2026-000289",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000289",
+    "shipped_at": "2026-02-20T07:36:00Z",
+    "received_at": "2026-02-24T07:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000290",
+    "rma_id": "RMA-2026-000290",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000290",
+    "shipped_at": "2026-04-06T08:56:00Z",
+    "received_at": "2026-04-08T08:56:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000291",
+    "rma_id": "RMA-2026-000291",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000291",
+    "shipped_at": "2026-11-20T16:27:00Z",
+    "received_at": "2026-11-22T16:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000292",
+    "rma_id": "RMA-2026-000292",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000292",
+    "shipped_at": "2027-01-18T04:06:00Z",
+    "received_at": "2027-01-22T04:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000293",
+    "rma_id": "RMA-2026-000293",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000293",
+    "shipped_at": "2026-05-31T14:09:00Z",
+    "received_at": "2026-06-02T14:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000294",
+    "rma_id": "RMA-2026-000294",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000294",
+    "shipped_at": "2026-10-04T06:27:00Z",
+    "received_at": "2026-10-07T06:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000295",
+    "rma_id": "RMA-2026-000295",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000295",
+    "shipped_at": "2026-05-28T06:11:00Z",
+    "received_at": "2026-06-01T06:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000296",
+    "rma_id": "RMA-2026-000296",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000296",
+    "shipped_at": "2026-10-04T11:28:00Z",
+    "received_at": "2026-10-08T11:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000297",
+    "rma_id": "RMA-2026-000297",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000297",
+    "shipped_at": "2026-02-01T17:53:00Z",
+    "received_at": "2026-02-04T17:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000298",
+    "rma_id": "RMA-2026-000298",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000298",
+    "shipped_at": "2026-08-21T03:39:00Z",
+    "received_at": "2026-08-25T03:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000299",
+    "rma_id": "RMA-2026-000299",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000299",
+    "shipped_at": "2026-05-29T20:51:00Z",
+    "received_at": "2026-05-31T20:51:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000300",
+    "rma_id": "RMA-2026-000300",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000300",
+    "shipped_at": "2026-05-07T05:52:00Z",
+    "received_at": "2026-05-10T05:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000301",
+    "rma_id": "RMA-2026-000301",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000301",
+    "shipped_at": "2026-05-02T23:31:00Z",
+    "received_at": "2026-05-04T23:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000302",
+    "rma_id": "RMA-2026-000302",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000302",
+    "shipped_at": "2026-04-26T00:53:00Z",
+    "received_at": "2026-04-30T00:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000303",
+    "rma_id": "RMA-2026-000303",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000303",
+    "shipped_at": "2026-03-22T09:57:00Z",
+    "received_at": "2026-03-24T09:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000304",
+    "rma_id": "RMA-2026-000304",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000304",
+    "shipped_at": "2026-12-05T16:42:00Z",
+    "received_at": "2026-12-09T16:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000305",
+    "rma_id": "RMA-2026-000305",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000305",
+    "shipped_at": "2026-04-29T21:28:00Z",
+    "received_at": "2026-05-02T21:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000306",
+    "rma_id": "RMA-2026-000306",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000306",
+    "shipped_at": "2026-10-19T01:12:00Z",
+    "received_at": "2026-10-22T01:12:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000307",
+    "rma_id": "RMA-2026-000307",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000307",
+    "shipped_at": "2026-04-06T23:17:00Z",
+    "received_at": "2026-04-09T23:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000308",
+    "rma_id": "RMA-2026-000308",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000308",
+    "shipped_at": "2026-08-29T23:41:00Z",
+    "received_at": "2026-08-31T23:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000309",
+    "rma_id": "RMA-2026-000309",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000309",
+    "shipped_at": "2027-01-13T10:58:00Z",
+    "received_at": "2027-01-17T10:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000310",
+    "rma_id": "RMA-2026-000310",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000310",
+    "shipped_at": "2026-10-23T02:41:00Z",
+    "received_at": "2026-10-25T02:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000311",
+    "rma_id": "RMA-2026-000311",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000311",
+    "shipped_at": "2026-12-13T04:36:00Z",
+    "received_at": "2026-12-15T04:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000312",
+    "rma_id": "RMA-2026-000312",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000312",
+    "shipped_at": "2026-04-06T05:31:00Z",
+    "received_at": "2026-04-10T05:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000313",
+    "rma_id": "RMA-2026-000313",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000313",
+    "shipped_at": "2026-12-04T22:49:00Z",
+    "received_at": "2026-12-06T22:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000314",
+    "rma_id": "RMA-2026-000314",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000314",
+    "shipped_at": "2026-02-14T15:18:00Z",
+    "received_at": "2026-02-17T15:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000315",
+    "rma_id": "RMA-2026-000315",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000315",
+    "shipped_at": "2026-04-21T13:05:00Z",
+    "received_at": "2026-04-24T13:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000316",
+    "rma_id": "RMA-2026-000316",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000316",
+    "shipped_at": "2026-11-04T02:37:00Z",
+    "received_at": "2026-11-08T02:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000317",
+    "rma_id": "RMA-2026-000317",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000317",
+    "shipped_at": "2026-02-13T07:10:00Z",
+    "received_at": "2026-02-17T07:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000318",
+    "rma_id": "RMA-2026-000318",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000318",
+    "shipped_at": "2026-12-14T10:40:00Z",
+    "received_at": "2026-12-18T10:40:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000319",
+    "rma_id": "RMA-2026-000319",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000319",
+    "shipped_at": "2026-04-08T09:18:00Z",
+    "received_at": "2026-04-12T09:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000320",
+    "rma_id": "RMA-2026-000320",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000320",
+    "shipped_at": "2026-11-24T16:08:00Z",
+    "received_at": "2026-11-28T16:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000321",
+    "rma_id": "RMA-2026-000321",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000321",
+    "shipped_at": "2026-10-23T12:36:00Z",
+    "received_at": "2026-10-27T12:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000322",
+    "rma_id": "RMA-2026-000322",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000322",
+    "shipped_at": "2026-12-17T13:44:00Z",
+    "received_at": "2026-12-21T13:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000323",
+    "rma_id": "RMA-2026-000323",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000323",
+    "shipped_at": "2026-12-26T17:15:00Z",
+    "received_at": "2026-12-28T17:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000324",
+    "rma_id": "RMA-2026-000324",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000324",
+    "shipped_at": "2026-04-25T18:15:00Z",
+    "received_at": "2026-04-28T18:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000325",
+    "rma_id": "RMA-2026-000325",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000325",
+    "shipped_at": "2026-02-28T19:49:00Z",
+    "received_at": "2026-03-02T19:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000326",
+    "rma_id": "RMA-2026-000326",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000326",
+    "shipped_at": "2026-07-05T22:22:00Z",
+    "received_at": "2026-07-07T22:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000327",
+    "rma_id": "RMA-2026-000327",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000327",
+    "shipped_at": "2026-02-25T16:42:00Z",
+    "received_at": "2026-02-27T16:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000328",
+    "rma_id": "RMA-2026-000328",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000328",
+    "shipped_at": "2026-12-18T17:05:00Z",
+    "received_at": "2026-12-20T17:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000329",
+    "rma_id": "RMA-2026-000329",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000329",
+    "shipped_at": "2026-12-04T02:04:00Z",
+    "received_at": "2026-12-08T02:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000330",
+    "rma_id": "RMA-2026-000330",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000330",
+    "shipped_at": "2026-10-23T16:15:00Z",
+    "received_at": "2026-10-25T16:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000331",
+    "rma_id": "RMA-2026-000331",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000331",
+    "shipped_at": "2026-09-16T15:53:00Z",
+    "received_at": "2026-09-18T15:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000332",
+    "rma_id": "RMA-2026-000332",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000332",
+    "shipped_at": "2026-05-15T04:07:00Z",
+    "received_at": "2026-05-17T04:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000333",
+    "rma_id": "RMA-2026-000333",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000333",
+    "shipped_at": "2026-07-29T23:46:00Z",
+    "received_at": "2026-08-01T23:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000334",
+    "rma_id": "RMA-2026-000334",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000334",
+    "shipped_at": "2026-06-25T16:58:00Z",
+    "received_at": "2026-06-29T16:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000335",
+    "rma_id": "RMA-2026-000335",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000335",
+    "shipped_at": "2026-07-25T00:13:00Z",
+    "received_at": "2026-07-29T00:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000336",
+    "rma_id": "RMA-2026-000336",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000336",
+    "shipped_at": "2026-07-12T04:11:00Z",
+    "received_at": "2026-07-15T04:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000337",
+    "rma_id": "RMA-2026-000337",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000337",
+    "shipped_at": "2026-10-16T05:47:00Z",
+    "received_at": "2026-10-19T05:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000338",
+    "rma_id": "RMA-2026-000338",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000338",
+    "shipped_at": "2026-12-01T13:15:00Z",
+    "received_at": "2026-12-03T13:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000339",
+    "rma_id": "RMA-2026-000339",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000339",
+    "shipped_at": "2026-07-15T10:41:00Z",
+    "received_at": "2026-07-19T10:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000340",
+    "rma_id": "RMA-2026-000340",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000340",
+    "shipped_at": "2027-01-01T20:48:00Z",
+    "received_at": "2027-01-03T20:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000341",
+    "rma_id": "RMA-2026-000341",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000341",
+    "shipped_at": "2026-08-11T04:06:00Z",
+    "received_at": "2026-08-15T04:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000342",
+    "rma_id": "RMA-2026-000342",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000342",
+    "shipped_at": "2026-07-03T18:16:00Z",
+    "received_at": "2026-07-07T18:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000343",
+    "rma_id": "RMA-2026-000343",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000343",
+    "shipped_at": "2026-06-14T16:10:00Z",
+    "received_at": "2026-06-17T16:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000344",
+    "rma_id": "RMA-2026-000344",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000344",
+    "shipped_at": "2026-07-08T05:25:00Z",
+    "received_at": "2026-07-12T05:25:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000345",
+    "rma_id": "RMA-2026-000345",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000345",
+    "shipped_at": "2026-10-28T19:36:00Z",
+    "received_at": "2026-10-31T19:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000346",
+    "rma_id": "RMA-2026-000346",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000346",
+    "shipped_at": "2026-05-18T15:08:00Z",
+    "received_at": "2026-05-22T15:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000347",
+    "rma_id": "RMA-2026-000347",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000347",
+    "shipped_at": "2026-10-23T00:38:00Z",
+    "received_at": "2026-10-25T00:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000348",
+    "rma_id": "RMA-2026-000348",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000348",
+    "shipped_at": "2026-10-28T03:28:00Z",
+    "received_at": "2026-10-30T03:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000349",
+    "rma_id": "RMA-2026-000349",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000349",
+    "shipped_at": "2026-11-03T11:13:00Z",
+    "received_at": "2026-11-06T11:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000350",
+    "rma_id": "RMA-2026-000350",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000350",
+    "shipped_at": "2026-12-27T23:06:00Z",
+    "received_at": "2026-12-31T23:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000351",
+    "rma_id": "RMA-2026-000351",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000351",
+    "shipped_at": "2026-02-21T19:49:00Z",
+    "received_at": "2026-02-23T19:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000352",
+    "rma_id": "RMA-2026-000352",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000352",
+    "shipped_at": "2026-10-07T20:47:00Z",
+    "received_at": "2026-10-10T20:47:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000353",
+    "rma_id": "RMA-2026-000353",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000353",
+    "shipped_at": "2026-11-01T22:26:00Z",
+    "received_at": "2026-11-03T22:26:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000354",
+    "rma_id": "RMA-2026-000354",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000354",
+    "shipped_at": "2027-01-12T10:38:00Z",
+    "received_at": "2027-01-15T10:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000355",
+    "rma_id": "RMA-2026-000355",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000355",
+    "shipped_at": "2026-09-14T04:58:00Z",
+    "received_at": "2026-09-18T04:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000356",
+    "rma_id": "RMA-2026-000356",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000356",
+    "shipped_at": "2026-02-13T20:19:00Z",
+    "received_at": "2026-02-16T20:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000357",
+    "rma_id": "RMA-2026-000357",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000357",
+    "shipped_at": "2026-11-10T13:31:00Z",
+    "received_at": "2026-11-12T13:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000358",
+    "rma_id": "RMA-2026-000358",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000358",
+    "shipped_at": "2026-09-09T02:35:00Z",
+    "received_at": "2026-09-11T02:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000359",
+    "rma_id": "RMA-2026-000359",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000359",
+    "shipped_at": "2027-01-02T14:55:00Z",
+    "received_at": "2027-01-04T14:55:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000360",
+    "rma_id": "RMA-2026-000360",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000360",
+    "shipped_at": "2026-08-28T23:09:00Z",
+    "received_at": "2026-08-31T23:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000361",
+    "rma_id": "RMA-2026-000361",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000361",
+    "shipped_at": "2026-07-23T15:27:00Z",
+    "received_at": "2026-07-25T15:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000362",
+    "rma_id": "RMA-2026-000362",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000362",
+    "shipped_at": "2026-06-25T17:15:00Z",
+    "received_at": "2026-06-27T17:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000363",
+    "rma_id": "RMA-2026-000363",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000363",
+    "shipped_at": "2026-06-19T11:10:00Z",
+    "received_at": "2026-06-23T11:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000364",
+    "rma_id": "RMA-2026-000364",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000364",
+    "shipped_at": "2026-11-23T08:59:00Z",
+    "received_at": "2026-11-27T08:59:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000365",
+    "rma_id": "RMA-2026-000365",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000365",
+    "shipped_at": "2026-11-04T10:37:00Z",
+    "received_at": "2026-11-06T10:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000366",
+    "rma_id": "RMA-2026-000366",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000366",
+    "shipped_at": "2026-04-25T13:04:00Z",
+    "received_at": "2026-04-27T13:04:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000367",
+    "rma_id": "RMA-2026-000367",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000367",
+    "shipped_at": "2027-01-07T00:57:00Z",
+    "received_at": "2027-01-09T00:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000368",
+    "rma_id": "RMA-2026-000368",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000368",
+    "shipped_at": "2026-02-06T13:11:00Z",
+    "received_at": "2026-02-09T13:11:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000369",
+    "rma_id": "RMA-2026-000369",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000369",
+    "shipped_at": "2026-10-12T22:44:00Z",
+    "received_at": "2026-10-15T22:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000370",
+    "rma_id": "RMA-2026-000370",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000370",
+    "shipped_at": "2026-11-16T01:35:00Z",
+    "received_at": "2026-11-18T01:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000371",
+    "rma_id": "RMA-2026-000371",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000371",
+    "shipped_at": "2026-06-27T06:30:00Z",
+    "received_at": "2026-06-30T06:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000372",
+    "rma_id": "RMA-2026-000372",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000372",
+    "shipped_at": "2027-01-10T20:54:00Z",
+    "received_at": "2027-01-13T20:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000373",
+    "rma_id": "RMA-2026-000373",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000373",
+    "shipped_at": "2026-10-23T11:18:00Z",
+    "received_at": "2026-10-27T11:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000374",
+    "rma_id": "RMA-2026-000374",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000374",
+    "shipped_at": "2026-02-07T13:39:00Z",
+    "received_at": "2026-02-10T13:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000375",
+    "rma_id": "RMA-2026-000375",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000375",
+    "shipped_at": "2026-12-30T18:17:00Z",
+    "received_at": "2027-01-02T18:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000376",
+    "rma_id": "RMA-2026-000376",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000376",
+    "shipped_at": "2026-08-17T06:09:00Z",
+    "received_at": "2026-08-20T06:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000377",
+    "rma_id": "RMA-2026-000377",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000377",
+    "shipped_at": "2026-08-04T02:38:00Z",
+    "received_at": "2026-08-06T02:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000378",
+    "rma_id": "RMA-2026-000378",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000378",
+    "shipped_at": "2026-12-04T05:50:00Z",
+    "received_at": "2026-12-06T05:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000379",
+    "rma_id": "RMA-2026-000379",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000379",
+    "shipped_at": "2026-05-06T08:23:00Z",
+    "received_at": "2026-05-09T08:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000380",
+    "rma_id": "RMA-2026-000380",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000380",
+    "shipped_at": "2026-02-21T04:20:00Z",
+    "received_at": "2026-02-23T04:20:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000381",
+    "rma_id": "RMA-2026-000381",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000381",
+    "shipped_at": "2026-06-26T05:35:00Z",
+    "received_at": "2026-06-28T05:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000382",
+    "rma_id": "RMA-2026-000382",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000382",
+    "shipped_at": "2026-03-28T17:24:00Z",
+    "received_at": "2026-03-30T17:24:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000383",
+    "rma_id": "RMA-2026-000383",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000383",
+    "shipped_at": "2026-08-25T11:39:00Z",
+    "received_at": "2026-08-27T11:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000384",
+    "rma_id": "RMA-2026-000384",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000384",
+    "shipped_at": "2026-10-24T08:35:00Z",
+    "received_at": "2026-10-27T08:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000385",
+    "rma_id": "RMA-2026-000385",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000385",
+    "shipped_at": "2026-07-25T05:06:00Z",
+    "received_at": "2026-07-27T05:06:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000386",
+    "rma_id": "RMA-2026-000386",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000386",
+    "shipped_at": "2026-06-04T04:49:00Z",
+    "received_at": "2026-06-06T04:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000387",
+    "rma_id": "RMA-2026-000387",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000387",
+    "shipped_at": "2026-08-25T18:13:00Z",
+    "received_at": "2026-08-28T18:13:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000388",
+    "rma_id": "RMA-2026-000388",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000388",
+    "shipped_at": "2026-12-05T03:09:00Z",
+    "received_at": "2026-12-07T03:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000389",
+    "rma_id": "RMA-2026-000389",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000389",
+    "shipped_at": "2026-07-11T20:30:00Z",
+    "received_at": "2026-07-15T20:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000390",
+    "rma_id": "RMA-2026-000390",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000390",
+    "shipped_at": "2026-07-28T17:23:00Z",
+    "received_at": "2026-07-30T17:23:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000391",
+    "rma_id": "RMA-2026-000391",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000391",
+    "shipped_at": "2026-08-04T06:31:00Z",
+    "received_at": "2026-08-07T06:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000392",
+    "rma_id": "RMA-2026-000392",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000392",
+    "shipped_at": "2026-06-18T15:42:00Z",
+    "received_at": "2026-06-21T15:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000393",
+    "rma_id": "RMA-2026-000393",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000393",
+    "shipped_at": "2027-01-08T19:31:00Z",
+    "received_at": "2027-01-12T19:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000394",
+    "rma_id": "RMA-2026-000394",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000394",
+    "shipped_at": "2026-09-10T08:50:00Z",
+    "received_at": "2026-09-12T08:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000395",
+    "rma_id": "RMA-2026-000395",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000395",
+    "shipped_at": "2026-02-12T19:33:00Z",
+    "received_at": "2026-02-16T19:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000396",
+    "rma_id": "RMA-2026-000396",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000396",
+    "shipped_at": "2026-12-14T06:41:00Z",
+    "received_at": "2026-12-17T06:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000397",
+    "rma_id": "RMA-2026-000397",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000397",
+    "shipped_at": "2026-05-17T10:50:00Z",
+    "received_at": "2026-05-19T10:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000398",
+    "rma_id": "RMA-2026-000398",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000398",
+    "shipped_at": "2026-12-31T04:19:00Z",
+    "received_at": "2027-01-02T04:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000399",
+    "rma_id": "RMA-2026-000399",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000399",
+    "shipped_at": "2026-06-20T05:57:00Z",
+    "received_at": "2026-06-23T05:57:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000400",
+    "rma_id": "RMA-2026-000400",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000400",
+    "shipped_at": "2026-06-15T14:14:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000401",
+    "rma_id": "RMA-2026-000401",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000401",
+    "shipped_at": "2026-09-29T10:10:00Z",
+    "received_at": "2026-10-02T10:10:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000402",
+    "rma_id": "RMA-2026-000402",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000402",
+    "shipped_at": "2026-07-23T12:07:00Z",
+    "received_at": "2026-07-26T12:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000403",
+    "rma_id": "RMA-2026-000403",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000403",
+    "shipped_at": "2026-12-28T11:49:00Z",
+    "received_at": "2026-12-30T11:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000404",
+    "rma_id": "RMA-2026-000404",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000404",
+    "shipped_at": "2026-02-12T07:31:00Z",
+    "received_at": "2026-02-15T07:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000405",
+    "rma_id": "RMA-2026-000405",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000405",
+    "shipped_at": "2026-07-07T22:12:00Z",
+    "received_at": "2026-07-10T22:12:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000406",
+    "rma_id": "RMA-2026-000406",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000406",
+    "shipped_at": "2026-05-11T17:52:00Z",
+    "received_at": "2026-05-14T17:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000407",
+    "rma_id": "RMA-2026-000407",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000407",
+    "shipped_at": "2026-09-20T07:16:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000408",
+    "rma_id": "RMA-2026-000408",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000408",
+    "shipped_at": "2027-01-06T13:22:00Z",
+    "received_at": "2027-01-10T13:22:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000409",
+    "rma_id": "RMA-2026-000409",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000409",
+    "shipped_at": "2026-09-15T00:48:00Z",
+    "received_at": "2026-09-18T00:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000410",
+    "rma_id": "RMA-2026-000410",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000410",
+    "shipped_at": "2026-03-20T12:15:00Z",
+    "received_at": "2026-03-24T12:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000411",
+    "rma_id": "RMA-2026-000411",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000411",
+    "shipped_at": "2026-04-08T07:49:00Z",
+    "received_at": "2026-04-12T07:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000412",
+    "rma_id": "RMA-2026-000412",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000412",
+    "shipped_at": "2026-04-21T17:17:00Z",
+    "received_at": "2026-04-23T17:17:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000413",
+    "rma_id": "RMA-2026-000413",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000413",
+    "shipped_at": "2026-12-01T14:19:00Z",
+    "received_at": "2026-12-03T14:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000414",
+    "rma_id": "RMA-2026-000414",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000414",
+    "shipped_at": "2026-12-06T19:35:00Z",
+    "received_at": "2026-12-09T19:35:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000415",
+    "rma_id": "RMA-2026-000415",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000415",
+    "shipped_at": "2026-07-31T22:33:00Z",
+    "received_at": "2026-08-03T22:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000416",
+    "rma_id": "RMA-2026-000416",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000416",
+    "shipped_at": "2026-08-04T00:42:00Z",
+    "received_at": "2026-08-07T00:42:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000417",
+    "rma_id": "RMA-2026-000417",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000417",
+    "shipped_at": "2026-08-06T23:26:00Z",
+    "received_at": "2026-08-08T23:26:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000418",
+    "rma_id": "RMA-2026-000418",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000418",
+    "shipped_at": "2026-12-14T08:53:00Z",
+    "received_at": "2026-12-16T08:53:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000419",
+    "rma_id": "RMA-2026-000419",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000419",
+    "shipped_at": "2026-02-04T03:44:00Z",
+    "received_at": "2026-02-06T03:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000420",
+    "rma_id": "RMA-2026-000420",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000420",
+    "shipped_at": "2026-06-09T15:45:00Z",
+    "received_at": "2026-06-13T15:45:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000421",
+    "rma_id": "RMA-2026-000421",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000421",
+    "shipped_at": "2026-05-01T14:00:00Z",
+    "received_at": "2026-05-03T14:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000422",
+    "rma_id": "RMA-2026-000422",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000422",
+    "shipped_at": "2026-09-19T19:33:00Z",
+    "received_at": "2026-09-23T19:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000423",
+    "rma_id": "RMA-2026-000423",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000423",
+    "shipped_at": "2026-09-22T04:41:00Z",
+    "received_at": "2026-09-24T04:41:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000424",
+    "rma_id": "RMA-2026-000424",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000424",
+    "shipped_at": "2026-03-22T04:30:00Z",
+    "received_at": "2026-03-26T04:30:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000425",
+    "rma_id": "RMA-2026-000425",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000425",
+    "shipped_at": "2027-01-11T18:31:00Z",
+    "received_at": "2027-01-13T18:31:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000426",
+    "rma_id": "RMA-2026-000426",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000426",
+    "shipped_at": "2026-09-09T06:16:00Z",
+    "received_at": "2026-09-11T06:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000427",
+    "rma_id": "RMA-2026-000427",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000427",
+    "shipped_at": "2026-08-21T13:24:00Z",
+    "received_at": "2026-08-24T13:24:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000428",
+    "rma_id": "RMA-2026-000428",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000428",
+    "shipped_at": "2026-01-31T22:05:00Z",
+    "received_at": "2026-02-03T22:05:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000429",
+    "rma_id": "RMA-2026-000429",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000429",
+    "shipped_at": "2027-01-28T09:16:00Z",
+    "received_at": "2027-02-01T09:16:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000430",
+    "rma_id": "RMA-2026-000430",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000430",
+    "shipped_at": "2026-09-10T21:27:00Z",
+    "received_at": "2026-09-13T21:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000431",
+    "rma_id": "RMA-2026-000431",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000431",
+    "shipped_at": "2026-06-30T21:39:00Z",
+    "received_at": "2026-07-03T21:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000432",
+    "rma_id": "RMA-2026-000432",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000432",
+    "shipped_at": "2026-09-01T13:33:00Z",
+    "received_at": "2026-09-05T13:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000433",
+    "rma_id": "RMA-2026-000433",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000433",
+    "shipped_at": "2026-06-22T08:48:00Z",
+    "received_at": "2026-06-24T08:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000434",
+    "rma_id": "RMA-2026-000434",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000434",
+    "shipped_at": "2026-06-15T07:09:00Z",
+    "received_at": "2026-06-19T07:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000435",
+    "rma_id": "RMA-2026-000435",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000435",
+    "shipped_at": "2026-11-24T17:01:00Z",
+    "received_at": "2026-11-27T17:01:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000436",
+    "rma_id": "RMA-2026-000436",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000436",
+    "shipped_at": "2027-01-13T04:54:00Z",
+    "received_at": "2027-01-17T04:54:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000437",
+    "rma_id": "RMA-2026-000437",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000437",
+    "shipped_at": "2026-09-18T21:44:00Z",
+    "received_at": "2026-09-22T21:44:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000438",
+    "rma_id": "RMA-2026-000438",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000438",
+    "shipped_at": "2026-12-09T12:49:00Z",
+    "received_at": "2026-12-13T12:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000439",
+    "rma_id": "RMA-2026-000439",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000439",
+    "shipped_at": "2026-05-31T13:39:00Z",
+    "received_at": "2026-06-04T13:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000440",
+    "rma_id": "RMA-2026-000440",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000440",
+    "shipped_at": "2026-11-19T15:19:00Z",
+    "received_at": "2026-11-22T15:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000441",
+    "rma_id": "RMA-2026-000441",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000441",
+    "shipped_at": "2026-12-09T15:39:00Z",
+    "received_at": "2026-12-11T15:39:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000442",
+    "rma_id": "RMA-2026-000442",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000442",
+    "shipped_at": "2026-11-26T07:21:00Z",
+    "received_at": "2026-11-29T07:21:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000443",
+    "rma_id": "RMA-2026-000443",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000443",
+    "shipped_at": "2026-09-05T10:08:00Z",
+    "received_at": "2026-09-07T10:08:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000444",
+    "rma_id": "RMA-2026-000444",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000444",
+    "shipped_at": "2026-07-09T08:49:00Z",
+    "received_at": "2026-07-11T08:49:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000445",
+    "rma_id": "RMA-2026-000445",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000445",
+    "shipped_at": "2026-02-27T11:50:00Z",
+    "received_at": "2026-03-03T11:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000446",
+    "rma_id": "RMA-2026-000446",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000446",
+    "shipped_at": "2026-05-04T15:46:00Z",
+    "received_at": "2026-05-08T15:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000447",
+    "rma_id": "RMA-2026-000447",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000447",
+    "shipped_at": "2026-07-14T10:50:00Z",
+    "received_at": "2026-07-17T10:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000448",
+    "rma_id": "RMA-2026-000448",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000448",
+    "shipped_at": "2026-05-19T19:09:00Z",
+    "received_at": "2026-05-21T19:09:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000449",
+    "rma_id": "RMA-2026-000449",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000449",
+    "shipped_at": "2026-06-24T11:48:00Z",
+    "received_at": "2026-06-26T11:48:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000450",
+    "rma_id": "RMA-2026-000450",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000450",
+    "shipped_at": "2026-10-24T04:01:00Z",
+    "received_at": "2026-10-26T04:01:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000451",
+    "rma_id": "RMA-2026-000451",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000451",
+    "shipped_at": "2026-12-09T09:38:00Z",
+    "received_at": "2026-12-12T09:38:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000452",
+    "rma_id": "RMA-2026-000452",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000452",
+    "shipped_at": "2027-01-02T21:27:00Z",
+    "received_at": "2027-01-05T21:27:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000453",
+    "rma_id": "RMA-2026-000453",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000453",
+    "shipped_at": "2026-02-09T12:33:00Z",
+    "received_at": "2026-02-13T12:33:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000454",
+    "rma_id": "RMA-2026-000454",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000454",
+    "shipped_at": "2026-03-21T12:58:00Z",
+    "received_at": "2026-03-24T12:58:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000455",
+    "rma_id": "RMA-2026-000455",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000455",
+    "shipped_at": "2026-03-31T04:45:00Z",
+    "received_at": "",
+    "shipment_status": "LOST_IN_TRANSIT"
+  },
+  {
+    "shipment_id": "RTS-2026-000456",
+    "rma_id": "RMA-2026-000456",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000456",
+    "shipped_at": "2027-01-11T23:28:00Z",
+    "received_at": "2027-01-15T23:28:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000457",
+    "rma_id": "RMA-2026-000457",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000457",
+    "shipped_at": "2026-02-27T16:36:00Z",
+    "received_at": "2026-03-01T16:36:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000458",
+    "rma_id": "RMA-2026-000458",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000458",
+    "shipped_at": "2027-01-05T04:02:00Z",
+    "received_at": "2027-01-09T04:02:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000459",
+    "rma_id": "RMA-2026-000459",
+    "carrier": "UPS",
+    "tracking_number": "TRK-000000000459",
+    "shipped_at": "2026-01-24T09:46:00Z",
+    "received_at": "2026-01-26T09:46:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000460",
+    "rma_id": "RMA-2026-000460",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000460",
+    "shipped_at": "2027-01-12T17:18:00Z",
+    "received_at": "2027-01-15T17:18:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000461",
+    "rma_id": "RMA-2026-000461",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000461",
+    "shipped_at": "2026-07-14T13:52:00Z",
+    "received_at": "2026-07-17T13:52:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000462",
+    "rma_id": "RMA-2026-000462",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000462",
+    "shipped_at": "2026-08-24T23:15:00Z",
+    "received_at": "2026-08-26T23:15:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000463",
+    "rma_id": "RMA-2026-000463",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000463",
+    "shipped_at": "2026-10-07T09:37:00Z",
+    "received_at": "2026-10-09T09:37:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000464",
+    "rma_id": "RMA-2026-000464",
+    "carrier": "IN_STORE_DROP",
+    "tracking_number": "TRK-000000000464",
+    "shipped_at": "2026-06-08T05:07:00Z",
+    "received_at": "2026-06-10T05:07:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000465",
+    "rma_id": "RMA-2026-000465",
+    "carrier": "DHL",
+    "tracking_number": "TRK-000000000465",
+    "shipped_at": "2026-12-29T16:19:00Z",
+    "received_at": "2026-12-31T16:19:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000466",
+    "rma_id": "RMA-2026-000466",
+    "carrier": "FEDEX",
+    "tracking_number": "TRK-000000000466",
+    "shipped_at": "2026-03-14T20:50:00Z",
+    "received_at": "2026-03-18T20:50:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  },
+  {
+    "shipment_id": "RTS-2026-000467",
+    "rma_id": "RMA-2026-000467",
+    "carrier": "USPS",
+    "tracking_number": "TRK-000000000467",
+    "shipped_at": "2026-05-17T04:00:00Z",
+    "received_at": "2026-05-20T04:00:00Z",
+    "shipment_status": "DELIVERED_TO_WH"
+  }
+]

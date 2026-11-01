@@ -1,0 +1,177 @@
+[
+  {
+    "record_id": "RMAL-RMA-2026-000001-01",
+    "detected_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+    "evidence": "approved_qty (5) > purchased_qty (3) on line OL-ORD-2026-001505-01",
+    "entity_type": "return_lines",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "RMAL-RMA-2026-000002-01",
+    "detected_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+    "evidence": "approved_qty (4) > purchased_qty (2) on line OL-ORD-2026-002165-01",
+    "entity_type": "return_lines",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "RMAL-RMA-2026-000003-01",
+    "detected_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+    "evidence": "approved_qty (4) > purchased_qty (3) on line OL-ORD-2026-000963-01",
+    "entity_type": "return_lines",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "RMAL-RMA-2026-000004-01",
+    "detected_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+    "evidence": "approved_qty (4) > purchased_qty (3) on line OL-ORD-2026-001369-01",
+    "entity_type": "return_lines",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "RMAL-RMA-2026-000005-01",
+    "detected_type": "ANOM_QTY_EXCEEDS_PURCHASED",
+    "evidence": "approved_qty (4) > purchased_qty (1) on line OL-ORD-2026-001706-01",
+    "entity_type": "return_lines",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "RMA-REQ-2026-000006",
+    "detected_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+    "evidence": "Request elapsed 44d > 30d window without override (line=RMAL-RMA-2026-000006-01)",
+    "entity_type": "return_requests",
+    "severity": "HIGH"
+  },
+  {
+    "record_id": "RMA-REQ-2026-000007",
+    "detected_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+    "evidence": "Request elapsed 44d > 30d window without override (line=RMAL-RMA-2026-000007-01)",
+    "entity_type": "return_requests",
+    "severity": "HIGH"
+  },
+  {
+    "record_id": "RMA-REQ-2026-000008",
+    "detected_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+    "evidence": "Request elapsed 44d > 30d window without override (line=RMAL-RMA-2026-000008-01)",
+    "entity_type": "return_requests",
+    "severity": "HIGH"
+  },
+  {
+    "record_id": "RMA-REQ-2026-000009",
+    "detected_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+    "evidence": "Request elapsed 44d > 30d window without override (line=RMAL-RMA-2026-000009-01)",
+    "entity_type": "return_requests",
+    "severity": "HIGH"
+  },
+  {
+    "record_id": "RMA-REQ-2026-000010",
+    "detected_type": "ANOM_LATE_RETURN_NO_OVERRIDE",
+    "evidence": "Request elapsed 44d > 30d window without override (line=RMAL-RMA-2026-000010-01)",
+    "entity_type": "return_requests",
+    "severity": "HIGH"
+  },
+  {
+    "record_id": "DSP-2026-000024",
+    "detected_type": "ANOM_RESTOCK_BEFORE_INSP",
+    "evidence": "Restock disposed_at (2026-12-07T21:08:00Z) is earlier than inspected_at (2026-12-07T21:38:00Z)",
+    "entity_type": "inventory_dispositions",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "DSP-2026-000025",
+    "detected_type": "ANOM_RESTOCK_BEFORE_INSP",
+    "evidence": "Restock disposed_at (2026-12-20T16:04:00Z) is earlier than inspected_at (2026-12-20T16:34:00Z)",
+    "entity_type": "inventory_dispositions",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "DSP-2026-000028",
+    "detected_type": "ANOM_RESTOCK_BEFORE_INSP",
+    "evidence": "Restock disposed_at (2026-05-12T17:27:00Z) is earlier than inspected_at (2026-05-12T17:57:00Z)",
+    "entity_type": "inventory_dispositions",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "DSP-2026-000029",
+    "detected_type": "ANOM_RESTOCK_BEFORE_INSP",
+    "evidence": "Restock disposed_at (2026-08-23T06:53:00Z) is earlier than inspected_at (2026-08-23T07:23:00Z)",
+    "entity_type": "inventory_dispositions",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "DSP-2026-000030",
+    "detected_type": "ANOM_RESTOCK_BEFORE_INSP",
+    "evidence": "Restock disposed_at (2027-01-04T15:06:00Z) is earlier than inspected_at (2027-01-04T15:36:00Z)",
+    "entity_type": "inventory_dispositions",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000032",
+    "detected_type": "ANOM_DUPLICATE_REFUND",
+    "evidence": "Duplicate PROCESSED payout detected on return_line_id=RMAL-RMA-2026-000021-01",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000036",
+    "detected_type": "ANOM_DUPLICATE_REFUND",
+    "evidence": "Duplicate PROCESSED payout detected on return_line_id=RMAL-RMA-2026-000022-01",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000039",
+    "detected_type": "ANOM_DUPLICATE_REFUND",
+    "evidence": "Duplicate PROCESSED payout detected on return_line_id=RMAL-RMA-2026-000023-01",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000041",
+    "detected_type": "ANOM_DUPLICATE_REFUND",
+    "evidence": "Duplicate PROCESSED payout detected on return_line_id=RMAL-RMA-2026-000024-01",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000045",
+    "detected_type": "ANOM_DUPLICATE_REFUND",
+    "evidence": "Duplicate PROCESSED payout detected on return_line_id=RMAL-RMA-2026-000025-01",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000015",
+    "detected_type": "ANOM_REFUND_EXCEEDS_PAID",
+    "evidence": "Refund net ($139.90) exceeds net paid amount ($89.90)",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000018",
+    "detected_type": "ANOM_REFUND_EXCEEDS_PAID",
+    "evidence": "Refund net ($124.63) exceeds net paid amount ($74.63)",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000020",
+    "detected_type": "ANOM_REFUND_EXCEEDS_PAID",
+    "evidence": "Refund net ($383.23) exceeds net paid amount ($333.23)",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000021",
+    "detected_type": "ANOM_REFUND_EXCEEDS_PAID",
+    "evidence": "Refund net ($98.79) exceeds net paid amount ($48.79)",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  },
+  {
+    "record_id": "REF-2026-000023",
+    "detected_type": "ANOM_REFUND_EXCEEDS_PAID",
+    "evidence": "Refund net ($260.64) exceeds net paid amount ($210.64)",
+    "entity_type": "refunds",
+    "severity": "CRITICAL"
+  }
+]

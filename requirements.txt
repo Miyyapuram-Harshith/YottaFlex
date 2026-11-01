@@ -1,0 +1,6 @@
+# ERL-RMA Python Dependencies
+# The backend and benchmark generator use Python 3.9+ standard library modules only
+# (sqlite3, json, hashlib, hmac, csv, datetime, dataclasses, typing, http.server, etc.)
+# Dev/CI linting tools (optional for local development):
+# ruff>=0.1.0
+# mypy>=1.5.0

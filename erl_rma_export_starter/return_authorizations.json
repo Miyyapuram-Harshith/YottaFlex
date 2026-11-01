@@ -1,0 +1,3271 @@
+[
+  {
+    "rma_id": "RMA-2026-000001",
+    "return_request_id": "RMA-REQ-2026-000001",
+    "authorized_at": "2026-10-18T18:58:00Z",
+    "expiration_date": "2026-11-01T18:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000002",
+    "return_request_id": "RMA-REQ-2026-000002",
+    "authorized_at": "2026-09-08T09:18:00Z",
+    "expiration_date": "2026-09-22T09:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000003",
+    "return_request_id": "RMA-REQ-2026-000003",
+    "authorized_at": "2026-05-03T01:18:00Z",
+    "expiration_date": "2026-05-17T01:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000004",
+    "return_request_id": "RMA-REQ-2026-000004",
+    "authorized_at": "2026-10-02T05:00:00Z",
+    "expiration_date": "2026-10-16T05:00:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000005",
+    "return_request_id": "RMA-REQ-2026-000005",
+    "authorized_at": "2026-11-03T00:04:00Z",
+    "expiration_date": "2026-11-17T00:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000006",
+    "return_request_id": "RMA-REQ-2026-000006",
+    "authorized_at": "2026-11-03T04:27:00Z",
+    "expiration_date": "2026-11-17T04:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000007",
+    "return_request_id": "RMA-REQ-2026-000007",
+    "authorized_at": "2026-12-11T12:17:00Z",
+    "expiration_date": "2026-12-25T12:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000008",
+    "return_request_id": "RMA-REQ-2026-000008",
+    "authorized_at": "2026-09-11T02:53:00Z",
+    "expiration_date": "2026-09-25T02:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000009",
+    "return_request_id": "RMA-REQ-2026-000009",
+    "authorized_at": "2026-06-01T05:46:00Z",
+    "expiration_date": "2026-06-15T05:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000010",
+    "return_request_id": "RMA-REQ-2026-000010",
+    "authorized_at": "2026-07-24T02:37:00Z",
+    "expiration_date": "2026-08-07T02:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000011",
+    "return_request_id": "RMA-REQ-2026-000011",
+    "authorized_at": "2026-02-10T23:28:00Z",
+    "expiration_date": "2026-02-24T23:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000012",
+    "return_request_id": "RMA-REQ-2026-000012",
+    "authorized_at": "2026-02-03T10:38:00Z",
+    "expiration_date": "2026-02-17T10:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000013",
+    "return_request_id": "RMA-REQ-2026-000013",
+    "authorized_at": "2026-04-20T08:53:00Z",
+    "expiration_date": "2026-05-04T08:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000014",
+    "return_request_id": "RMA-REQ-2026-000014",
+    "authorized_at": "2026-04-19T08:04:00Z",
+    "expiration_date": "2026-05-03T08:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000015",
+    "return_request_id": "RMA-REQ-2026-000015",
+    "authorized_at": "2026-04-25T11:07:00Z",
+    "expiration_date": "2026-05-09T11:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000016",
+    "return_request_id": "RMA-REQ-2026-000016",
+    "authorized_at": "2026-12-01T16:38:00Z",
+    "expiration_date": "2026-12-15T16:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000017",
+    "return_request_id": "RMA-REQ-2026-000017",
+    "authorized_at": "2026-12-16T06:34:00Z",
+    "expiration_date": "2026-12-30T06:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000018",
+    "return_request_id": "RMA-REQ-2026-000018",
+    "authorized_at": "2026-05-06T08:57:00Z",
+    "expiration_date": "2026-05-20T08:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000019",
+    "return_request_id": "RMA-REQ-2026-000019",
+    "authorized_at": "2026-08-16T19:23:00Z",
+    "expiration_date": "2026-08-30T19:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000020",
+    "return_request_id": "RMA-REQ-2026-000020",
+    "authorized_at": "2027-01-01T07:36:00Z",
+    "expiration_date": "2027-01-15T07:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000021",
+    "return_request_id": "RMA-REQ-2026-000021",
+    "authorized_at": "2026-10-29T11:11:00Z",
+    "expiration_date": "2026-11-12T11:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000022",
+    "return_request_id": "RMA-REQ-2026-000022",
+    "authorized_at": "2026-09-02T08:39:00Z",
+    "expiration_date": "2026-09-16T08:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000023",
+    "return_request_id": "RMA-REQ-2026-000023",
+    "authorized_at": "2026-05-22T12:38:00Z",
+    "expiration_date": "2026-06-05T12:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000024",
+    "return_request_id": "RMA-REQ-2026-000024",
+    "authorized_at": "2026-03-09T03:35:00Z",
+    "expiration_date": "2026-03-23T03:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000025",
+    "return_request_id": "RMA-REQ-2026-000025",
+    "authorized_at": "2026-11-15T07:48:00Z",
+    "expiration_date": "2026-11-29T07:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000026",
+    "return_request_id": "RMA-REQ-2026-000026",
+    "authorized_at": "2027-01-22T21:27:00Z",
+    "expiration_date": "2027-02-05T21:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000027",
+    "return_request_id": "RMA-REQ-2026-000027",
+    "authorized_at": "2026-11-29T15:57:00Z",
+    "expiration_date": "2026-12-13T15:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000028",
+    "return_request_id": "RMA-REQ-2026-000028",
+    "authorized_at": "2026-02-21T07:57:00Z",
+    "expiration_date": "2026-03-07T07:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000029",
+    "return_request_id": "RMA-REQ-2026-000029",
+    "authorized_at": "2027-01-09T14:09:00Z",
+    "expiration_date": "2027-01-23T14:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000030",
+    "return_request_id": "RMA-REQ-2026-000030",
+    "authorized_at": "2026-08-11T05:38:00Z",
+    "expiration_date": "2026-08-25T05:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000031",
+    "return_request_id": "RMA-REQ-2026-000031",
+    "authorized_at": "2026-04-04T21:36:00Z",
+    "expiration_date": "2026-04-18T21:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000032",
+    "return_request_id": "RMA-REQ-2026-000032",
+    "authorized_at": "2026-08-11T13:39:00Z",
+    "expiration_date": "2026-08-25T13:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000033",
+    "return_request_id": "RMA-REQ-2026-000033",
+    "authorized_at": "2026-09-30T17:14:00Z",
+    "expiration_date": "2026-10-14T17:14:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000034",
+    "return_request_id": "RMA-REQ-2026-000034",
+    "authorized_at": "2026-09-19T18:59:00Z",
+    "expiration_date": "2026-10-03T18:59:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000035",
+    "return_request_id": "RMA-REQ-2026-000035",
+    "authorized_at": "2026-11-27T19:54:00Z",
+    "expiration_date": "2026-12-11T19:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000036",
+    "return_request_id": "RMA-REQ-2026-000036",
+    "authorized_at": "2026-12-26T03:40:00Z",
+    "expiration_date": "2027-01-09T03:40:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000037",
+    "return_request_id": "RMA-REQ-2026-000037",
+    "authorized_at": "2026-04-26T20:50:00Z",
+    "expiration_date": "2026-05-10T20:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000038",
+    "return_request_id": "RMA-REQ-2026-000038",
+    "authorized_at": "2026-09-16T05:02:00Z",
+    "expiration_date": "2026-09-30T05:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000039",
+    "return_request_id": "RMA-REQ-2026-000039",
+    "authorized_at": "2026-04-18T12:20:00Z",
+    "expiration_date": "2026-05-02T12:20:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000040",
+    "return_request_id": "RMA-REQ-2026-000040",
+    "authorized_at": "2026-05-12T17:02:00Z",
+    "expiration_date": "2026-05-26T17:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000041",
+    "return_request_id": "RMA-REQ-2026-000041",
+    "authorized_at": "2026-03-23T21:36:00Z",
+    "expiration_date": "2026-04-06T21:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000042",
+    "return_request_id": "RMA-REQ-2026-000042",
+    "authorized_at": "2026-04-04T15:13:00Z",
+    "expiration_date": "2026-04-18T15:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000043",
+    "return_request_id": "RMA-REQ-2026-000043",
+    "authorized_at": "2026-02-22T20:50:00Z",
+    "expiration_date": "2026-03-08T20:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000044",
+    "return_request_id": "RMA-REQ-2026-000044",
+    "authorized_at": "2027-01-11T01:19:00Z",
+    "expiration_date": "2027-01-25T01:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000045",
+    "return_request_id": "RMA-REQ-2026-000045",
+    "authorized_at": "2026-07-29T01:25:00Z",
+    "expiration_date": "2026-08-12T01:25:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000046",
+    "return_request_id": "RMA-REQ-2026-000046",
+    "authorized_at": "2026-06-17T18:31:00Z",
+    "expiration_date": "2026-07-01T18:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000047",
+    "return_request_id": "RMA-REQ-2026-000047",
+    "authorized_at": "2026-04-09T18:50:00Z",
+    "expiration_date": "2026-04-23T18:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000048",
+    "return_request_id": "RMA-REQ-2026-000048",
+    "authorized_at": "2026-02-24T18:41:00Z",
+    "expiration_date": "2026-03-10T18:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000049",
+    "return_request_id": "RMA-REQ-2026-000049",
+    "authorized_at": "2026-12-09T10:03:00Z",
+    "expiration_date": "2026-12-23T10:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000050",
+    "return_request_id": "RMA-REQ-2026-000050",
+    "authorized_at": "2027-01-01T09:03:00Z",
+    "expiration_date": "2027-01-15T09:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000051",
+    "return_request_id": "RMA-REQ-2026-000051",
+    "authorized_at": "2026-02-02T21:02:00Z",
+    "expiration_date": "2026-02-16T21:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000052",
+    "return_request_id": "RMA-REQ-2026-000052",
+    "authorized_at": "2026-12-14T05:03:00Z",
+    "expiration_date": "2026-12-28T05:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000053",
+    "return_request_id": "RMA-REQ-2026-000053",
+    "authorized_at": "2027-01-25T04:18:00Z",
+    "expiration_date": "2027-02-08T04:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000054",
+    "return_request_id": "RMA-REQ-2026-000054",
+    "authorized_at": "2026-11-29T16:29:00Z",
+    "expiration_date": "2026-12-13T16:29:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000055",
+    "return_request_id": "RMA-REQ-2026-000055",
+    "authorized_at": "2026-08-31T18:35:00Z",
+    "expiration_date": "2026-09-14T18:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000056",
+    "return_request_id": "RMA-REQ-2026-000056",
+    "authorized_at": "2026-07-21T19:36:00Z",
+    "expiration_date": "2026-08-04T19:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000057",
+    "return_request_id": "RMA-REQ-2026-000057",
+    "authorized_at": "2026-05-20T15:57:00Z",
+    "expiration_date": "2026-06-03T15:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000058",
+    "return_request_id": "RMA-REQ-2026-000058",
+    "authorized_at": "2026-09-11T17:26:00Z",
+    "expiration_date": "2026-09-25T17:26:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000059",
+    "return_request_id": "RMA-REQ-2026-000059",
+    "authorized_at": "2026-02-18T03:45:00Z",
+    "expiration_date": "2026-03-04T03:45:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000060",
+    "return_request_id": "RMA-REQ-2026-000060",
+    "authorized_at": "2026-11-12T03:08:00Z",
+    "expiration_date": "2026-11-26T03:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000061",
+    "return_request_id": "RMA-REQ-2026-000061",
+    "authorized_at": "2026-12-25T20:00:00Z",
+    "expiration_date": "2027-01-08T20:00:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000062",
+    "return_request_id": "RMA-REQ-2026-000062",
+    "authorized_at": "2026-06-26T11:23:00Z",
+    "expiration_date": "2026-07-10T11:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000063",
+    "return_request_id": "RMA-REQ-2026-000063",
+    "authorized_at": "2026-06-08T08:49:00Z",
+    "expiration_date": "2026-06-22T08:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000064",
+    "return_request_id": "RMA-REQ-2026-000064",
+    "authorized_at": "2026-06-20T06:23:00Z",
+    "expiration_date": "2026-07-04T06:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000065",
+    "return_request_id": "RMA-REQ-2026-000065",
+    "authorized_at": "2027-01-09T18:50:00Z",
+    "expiration_date": "2027-01-23T18:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000066",
+    "return_request_id": "RMA-REQ-2026-000066",
+    "authorized_at": "2026-12-06T12:01:00Z",
+    "expiration_date": "2026-12-20T12:01:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000067",
+    "return_request_id": "RMA-REQ-2026-000067",
+    "authorized_at": "2026-05-02T00:22:00Z",
+    "expiration_date": "2026-05-16T00:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000068",
+    "return_request_id": "RMA-REQ-2026-000068",
+    "authorized_at": "2026-05-28T15:47:00Z",
+    "expiration_date": "2026-06-11T15:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000069",
+    "return_request_id": "RMA-REQ-2026-000069",
+    "authorized_at": "2026-08-23T14:26:00Z",
+    "expiration_date": "2026-09-06T14:26:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000070",
+    "return_request_id": "RMA-REQ-2026-000070",
+    "authorized_at": "2026-10-08T17:08:00Z",
+    "expiration_date": "2026-10-22T17:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000071",
+    "return_request_id": "RMA-REQ-2026-000072",
+    "authorized_at": "2026-08-01T13:49:00Z",
+    "expiration_date": "2026-08-15T13:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000072",
+    "return_request_id": "RMA-REQ-2026-000073",
+    "authorized_at": "2026-11-10T13:06:00Z",
+    "expiration_date": "2026-11-24T13:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000073",
+    "return_request_id": "RMA-REQ-2026-000074",
+    "authorized_at": "2026-02-11T01:14:00Z",
+    "expiration_date": "2026-02-25T01:14:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000074",
+    "return_request_id": "RMA-REQ-2026-000075",
+    "authorized_at": "2026-08-11T18:48:00Z",
+    "expiration_date": "2026-08-25T18:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000075",
+    "return_request_id": "RMA-REQ-2026-000076",
+    "authorized_at": "2026-12-08T14:21:00Z",
+    "expiration_date": "2026-12-22T14:21:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000076",
+    "return_request_id": "RMA-REQ-2026-000077",
+    "authorized_at": "2026-01-25T02:53:00Z",
+    "expiration_date": "2026-02-08T02:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000077",
+    "return_request_id": "RMA-REQ-2026-000078",
+    "authorized_at": "2026-04-01T02:32:00Z",
+    "expiration_date": "2026-04-15T02:32:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000078",
+    "return_request_id": "RMA-REQ-2026-000079",
+    "authorized_at": "2026-03-19T19:44:00Z",
+    "expiration_date": "2026-04-02T19:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000079",
+    "return_request_id": "RMA-REQ-2026-000081",
+    "authorized_at": "2026-07-29T15:50:00Z",
+    "expiration_date": "2026-08-12T15:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000080",
+    "return_request_id": "RMA-REQ-2026-000082",
+    "authorized_at": "2026-07-17T23:56:00Z",
+    "expiration_date": "2026-07-31T23:56:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000081",
+    "return_request_id": "RMA-REQ-2026-000083",
+    "authorized_at": "2026-07-17T09:43:00Z",
+    "expiration_date": "2026-07-31T09:43:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000082",
+    "return_request_id": "RMA-REQ-2026-000084",
+    "authorized_at": "2026-11-07T13:51:00Z",
+    "expiration_date": "2026-11-21T13:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000083",
+    "return_request_id": "RMA-REQ-2026-000085",
+    "authorized_at": "2026-04-25T18:13:00Z",
+    "expiration_date": "2026-05-09T18:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000084",
+    "return_request_id": "RMA-REQ-2026-000086",
+    "authorized_at": "2026-02-07T04:53:00Z",
+    "expiration_date": "2026-02-21T04:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000085",
+    "return_request_id": "RMA-REQ-2026-000087",
+    "authorized_at": "2026-12-24T15:13:00Z",
+    "expiration_date": "2027-01-07T15:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000086",
+    "return_request_id": "RMA-REQ-2026-000088",
+    "authorized_at": "2026-06-09T05:29:00Z",
+    "expiration_date": "2026-06-23T05:29:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000087",
+    "return_request_id": "RMA-REQ-2026-000089",
+    "authorized_at": "2026-04-24T00:43:00Z",
+    "expiration_date": "2026-05-08T00:43:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000088",
+    "return_request_id": "RMA-REQ-2026-000090",
+    "authorized_at": "2026-07-31T15:54:00Z",
+    "expiration_date": "2026-08-14T15:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000089",
+    "return_request_id": "RMA-REQ-2026-000091",
+    "authorized_at": "2026-04-22T14:40:00Z",
+    "expiration_date": "2026-05-06T14:40:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000090",
+    "return_request_id": "RMA-REQ-2026-000092",
+    "authorized_at": "2026-02-08T22:33:00Z",
+    "expiration_date": "2026-02-22T22:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000091",
+    "return_request_id": "RMA-REQ-2026-000093",
+    "authorized_at": "2026-03-11T22:30:00Z",
+    "expiration_date": "2026-03-25T22:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000092",
+    "return_request_id": "RMA-REQ-2026-000094",
+    "authorized_at": "2026-04-29T14:13:00Z",
+    "expiration_date": "2026-05-13T14:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000093",
+    "return_request_id": "RMA-REQ-2026-000095",
+    "authorized_at": "2026-08-03T19:44:00Z",
+    "expiration_date": "2026-08-17T19:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000094",
+    "return_request_id": "RMA-REQ-2026-000096",
+    "authorized_at": "2026-10-10T00:38:00Z",
+    "expiration_date": "2026-10-24T00:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000095",
+    "return_request_id": "RMA-REQ-2026-000097",
+    "authorized_at": "2026-08-29T14:17:00Z",
+    "expiration_date": "2026-09-12T14:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000096",
+    "return_request_id": "RMA-REQ-2026-000098",
+    "authorized_at": "2026-04-02T03:11:00Z",
+    "expiration_date": "2026-04-16T03:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000097",
+    "return_request_id": "RMA-REQ-2026-000099",
+    "authorized_at": "2026-06-06T20:05:00Z",
+    "expiration_date": "2026-06-20T20:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000098",
+    "return_request_id": "RMA-REQ-2026-000100",
+    "authorized_at": "2026-04-19T06:03:00Z",
+    "expiration_date": "2026-05-03T06:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000099",
+    "return_request_id": "RMA-REQ-2026-000101",
+    "authorized_at": "2026-11-15T12:08:00Z",
+    "expiration_date": "2026-11-29T12:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000100",
+    "return_request_id": "RMA-REQ-2026-000102",
+    "authorized_at": "2026-05-10T06:09:00Z",
+    "expiration_date": "2026-05-24T06:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000101",
+    "return_request_id": "RMA-REQ-2026-000103",
+    "authorized_at": "2026-07-12T14:42:00Z",
+    "expiration_date": "2026-07-26T14:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000102",
+    "return_request_id": "RMA-REQ-2026-000104",
+    "authorized_at": "2026-04-19T14:51:00Z",
+    "expiration_date": "2026-05-03T14:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000103",
+    "return_request_id": "RMA-REQ-2026-000105",
+    "authorized_at": "2026-05-15T01:24:00Z",
+    "expiration_date": "2026-05-29T01:24:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000104",
+    "return_request_id": "RMA-REQ-2026-000106",
+    "authorized_at": "2026-02-04T00:19:00Z",
+    "expiration_date": "2026-02-18T00:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000105",
+    "return_request_id": "RMA-REQ-2026-000108",
+    "authorized_at": "2026-10-04T20:39:00Z",
+    "expiration_date": "2026-10-18T20:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000106",
+    "return_request_id": "RMA-REQ-2026-000110",
+    "authorized_at": "2026-12-16T02:23:00Z",
+    "expiration_date": "2026-12-30T02:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000107",
+    "return_request_id": "RMA-REQ-2026-000111",
+    "authorized_at": "2026-05-11T15:53:00Z",
+    "expiration_date": "2026-05-25T15:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000108",
+    "return_request_id": "RMA-REQ-2026-000112",
+    "authorized_at": "2027-01-25T04:58:00Z",
+    "expiration_date": "2027-02-08T04:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000109",
+    "return_request_id": "RMA-REQ-2026-000113",
+    "authorized_at": "2026-08-28T07:22:00Z",
+    "expiration_date": "2026-09-11T07:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000110",
+    "return_request_id": "RMA-REQ-2026-000114",
+    "authorized_at": "2026-10-28T10:30:00Z",
+    "expiration_date": "2026-11-11T10:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000111",
+    "return_request_id": "RMA-REQ-2026-000115",
+    "authorized_at": "2027-01-11T23:51:00Z",
+    "expiration_date": "2027-01-25T23:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000112",
+    "return_request_id": "RMA-REQ-2026-000116",
+    "authorized_at": "2026-05-15T01:37:00Z",
+    "expiration_date": "2026-05-29T01:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000113",
+    "return_request_id": "RMA-REQ-2026-000117",
+    "authorized_at": "2026-03-14T09:04:00Z",
+    "expiration_date": "2026-03-28T09:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000114",
+    "return_request_id": "RMA-REQ-2026-000118",
+    "authorized_at": "2026-12-31T20:51:00Z",
+    "expiration_date": "2027-01-14T20:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000115",
+    "return_request_id": "RMA-REQ-2026-000119",
+    "authorized_at": "2026-11-21T12:41:00Z",
+    "expiration_date": "2026-12-05T12:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000116",
+    "return_request_id": "RMA-REQ-2026-000121",
+    "authorized_at": "2026-05-21T07:04:00Z",
+    "expiration_date": "2026-06-04T07:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000117",
+    "return_request_id": "RMA-REQ-2026-000122",
+    "authorized_at": "2026-04-16T16:24:00Z",
+    "expiration_date": "2026-04-30T16:24:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000118",
+    "return_request_id": "RMA-REQ-2026-000123",
+    "authorized_at": "2026-12-14T18:52:00Z",
+    "expiration_date": "2026-12-28T18:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000119",
+    "return_request_id": "RMA-REQ-2026-000124",
+    "authorized_at": "2026-12-01T20:54:00Z",
+    "expiration_date": "2026-12-15T20:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000120",
+    "return_request_id": "RMA-REQ-2026-000125",
+    "authorized_at": "2026-11-18T06:24:00Z",
+    "expiration_date": "2026-12-02T06:24:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000121",
+    "return_request_id": "RMA-REQ-2026-000126",
+    "authorized_at": "2027-01-18T00:04:00Z",
+    "expiration_date": "2027-02-01T00:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000122",
+    "return_request_id": "RMA-REQ-2026-000127",
+    "authorized_at": "2026-02-16T02:46:00Z",
+    "expiration_date": "2026-03-02T02:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000123",
+    "return_request_id": "RMA-REQ-2026-000128",
+    "authorized_at": "2026-09-11T12:12:00Z",
+    "expiration_date": "2026-09-25T12:12:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000124",
+    "return_request_id": "RMA-REQ-2026-000129",
+    "authorized_at": "2027-01-14T06:11:00Z",
+    "expiration_date": "2027-01-28T06:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000125",
+    "return_request_id": "RMA-REQ-2026-000130",
+    "authorized_at": "2026-12-11T05:25:00Z",
+    "expiration_date": "2026-12-25T05:25:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000126",
+    "return_request_id": "RMA-REQ-2026-000131",
+    "authorized_at": "2026-12-23T17:38:00Z",
+    "expiration_date": "2027-01-06T17:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000127",
+    "return_request_id": "RMA-REQ-2026-000132",
+    "authorized_at": "2026-11-10T05:38:00Z",
+    "expiration_date": "2026-11-24T05:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000128",
+    "return_request_id": "RMA-REQ-2026-000133",
+    "authorized_at": "2026-03-17T12:43:00Z",
+    "expiration_date": "2026-03-31T12:43:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000129",
+    "return_request_id": "RMA-REQ-2026-000134",
+    "authorized_at": "2026-10-21T07:58:00Z",
+    "expiration_date": "2026-11-04T07:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000130",
+    "return_request_id": "RMA-REQ-2026-000135",
+    "authorized_at": "2026-12-20T16:46:00Z",
+    "expiration_date": "2027-01-03T16:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000131",
+    "return_request_id": "RMA-REQ-2026-000136",
+    "authorized_at": "2026-09-09T22:57:00Z",
+    "expiration_date": "2026-09-23T22:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000132",
+    "return_request_id": "RMA-REQ-2026-000137",
+    "authorized_at": "2026-11-12T00:50:00Z",
+    "expiration_date": "2026-11-26T00:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000133",
+    "return_request_id": "RMA-REQ-2026-000138",
+    "authorized_at": "2026-12-08T14:17:00Z",
+    "expiration_date": "2026-12-22T14:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000134",
+    "return_request_id": "RMA-REQ-2026-000139",
+    "authorized_at": "2026-07-11T20:23:00Z",
+    "expiration_date": "2026-07-25T20:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000135",
+    "return_request_id": "RMA-REQ-2026-000140",
+    "authorized_at": "2026-09-10T12:06:00Z",
+    "expiration_date": "2026-09-24T12:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000136",
+    "return_request_id": "RMA-REQ-2026-000141",
+    "authorized_at": "2027-01-14T13:07:00Z",
+    "expiration_date": "2027-01-28T13:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000137",
+    "return_request_id": "RMA-REQ-2026-000142",
+    "authorized_at": "2026-07-20T17:49:00Z",
+    "expiration_date": "2026-08-03T17:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000138",
+    "return_request_id": "RMA-REQ-2026-000143",
+    "authorized_at": "2026-09-16T19:08:00Z",
+    "expiration_date": "2026-09-30T19:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000139",
+    "return_request_id": "RMA-REQ-2026-000144",
+    "authorized_at": "2026-03-19T15:23:00Z",
+    "expiration_date": "2026-04-02T15:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000140",
+    "return_request_id": "RMA-REQ-2026-000145",
+    "authorized_at": "2026-10-07T17:06:00Z",
+    "expiration_date": "2026-10-21T17:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000141",
+    "return_request_id": "RMA-REQ-2026-000146",
+    "authorized_at": "2026-12-23T10:25:00Z",
+    "expiration_date": "2027-01-06T10:25:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000142",
+    "return_request_id": "RMA-REQ-2026-000147",
+    "authorized_at": "2026-07-22T11:46:00Z",
+    "expiration_date": "2026-08-05T11:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000143",
+    "return_request_id": "RMA-REQ-2026-000148",
+    "authorized_at": "2026-02-25T16:33:00Z",
+    "expiration_date": "2026-03-11T16:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000144",
+    "return_request_id": "RMA-REQ-2026-000149",
+    "authorized_at": "2026-04-15T09:27:00Z",
+    "expiration_date": "2026-04-29T09:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000145",
+    "return_request_id": "RMA-REQ-2026-000150",
+    "authorized_at": "2026-08-13T15:32:00Z",
+    "expiration_date": "2026-08-27T15:32:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000146",
+    "return_request_id": "RMA-REQ-2026-000152",
+    "authorized_at": "2026-03-08T06:56:00Z",
+    "expiration_date": "2026-03-22T06:56:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000147",
+    "return_request_id": "RMA-REQ-2026-000153",
+    "authorized_at": "2026-11-28T09:44:00Z",
+    "expiration_date": "2026-12-12T09:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000148",
+    "return_request_id": "RMA-REQ-2026-000154",
+    "authorized_at": "2026-06-06T14:36:00Z",
+    "expiration_date": "2026-06-20T14:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000149",
+    "return_request_id": "RMA-REQ-2026-000155",
+    "authorized_at": "2026-12-03T11:33:00Z",
+    "expiration_date": "2026-12-17T11:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000150",
+    "return_request_id": "RMA-REQ-2026-000156",
+    "authorized_at": "2026-11-20T22:47:00Z",
+    "expiration_date": "2026-12-04T22:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000151",
+    "return_request_id": "RMA-REQ-2026-000157",
+    "authorized_at": "2026-04-12T13:12:00Z",
+    "expiration_date": "2026-04-26T13:12:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000152",
+    "return_request_id": "RMA-REQ-2026-000158",
+    "authorized_at": "2026-05-19T04:30:00Z",
+    "expiration_date": "2026-06-02T04:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000153",
+    "return_request_id": "RMA-REQ-2026-000159",
+    "authorized_at": "2026-03-05T22:48:00Z",
+    "expiration_date": "2026-03-19T22:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000154",
+    "return_request_id": "RMA-REQ-2026-000160",
+    "authorized_at": "2026-12-07T17:57:00Z",
+    "expiration_date": "2026-12-21T17:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000155",
+    "return_request_id": "RMA-REQ-2026-000161",
+    "authorized_at": "2026-11-04T09:14:00Z",
+    "expiration_date": "2026-11-18T09:14:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000156",
+    "return_request_id": "RMA-REQ-2026-000162",
+    "authorized_at": "2026-12-09T00:36:00Z",
+    "expiration_date": "2026-12-23T00:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000157",
+    "return_request_id": "RMA-REQ-2026-000163",
+    "authorized_at": "2026-03-22T00:08:00Z",
+    "expiration_date": "2026-04-05T00:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000158",
+    "return_request_id": "RMA-REQ-2026-000164",
+    "authorized_at": "2026-05-26T18:55:00Z",
+    "expiration_date": "2026-06-09T18:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000159",
+    "return_request_id": "RMA-REQ-2026-000165",
+    "authorized_at": "2026-07-19T15:51:00Z",
+    "expiration_date": "2026-08-02T15:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000160",
+    "return_request_id": "RMA-REQ-2026-000166",
+    "authorized_at": "2026-03-28T21:15:00Z",
+    "expiration_date": "2026-04-11T21:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000161",
+    "return_request_id": "RMA-REQ-2026-000167",
+    "authorized_at": "2026-04-24T14:48:00Z",
+    "expiration_date": "2026-05-08T14:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000162",
+    "return_request_id": "RMA-REQ-2026-000168",
+    "authorized_at": "2026-10-25T13:15:00Z",
+    "expiration_date": "2026-11-08T13:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000163",
+    "return_request_id": "RMA-REQ-2026-000169",
+    "authorized_at": "2026-08-07T17:19:00Z",
+    "expiration_date": "2026-08-21T17:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000164",
+    "return_request_id": "RMA-REQ-2026-000170",
+    "authorized_at": "2026-04-26T06:39:00Z",
+    "expiration_date": "2026-05-10T06:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000165",
+    "return_request_id": "RMA-REQ-2026-000171",
+    "authorized_at": "2026-03-31T14:02:00Z",
+    "expiration_date": "2026-04-14T14:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000166",
+    "return_request_id": "RMA-REQ-2026-000172",
+    "authorized_at": "2026-05-14T20:23:00Z",
+    "expiration_date": "2026-05-28T20:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000167",
+    "return_request_id": "RMA-REQ-2026-000173",
+    "authorized_at": "2026-05-14T22:50:00Z",
+    "expiration_date": "2026-05-28T22:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000168",
+    "return_request_id": "RMA-REQ-2026-000174",
+    "authorized_at": "2026-12-04T09:34:00Z",
+    "expiration_date": "2026-12-18T09:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000169",
+    "return_request_id": "RMA-REQ-2026-000175",
+    "authorized_at": "2026-05-08T02:05:00Z",
+    "expiration_date": "2026-05-22T02:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000170",
+    "return_request_id": "RMA-REQ-2026-000177",
+    "authorized_at": "2026-03-06T10:38:00Z",
+    "expiration_date": "2026-03-20T10:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000171",
+    "return_request_id": "RMA-REQ-2026-000178",
+    "authorized_at": "2026-05-31T02:10:00Z",
+    "expiration_date": "2026-06-14T02:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000172",
+    "return_request_id": "RMA-REQ-2026-000179",
+    "authorized_at": "2026-02-01T04:53:00Z",
+    "expiration_date": "2026-02-15T04:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000173",
+    "return_request_id": "RMA-REQ-2026-000180",
+    "authorized_at": "2026-10-14T23:22:00Z",
+    "expiration_date": "2026-10-28T23:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000174",
+    "return_request_id": "RMA-REQ-2026-000181",
+    "authorized_at": "2026-09-12T06:19:00Z",
+    "expiration_date": "2026-09-26T06:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000175",
+    "return_request_id": "RMA-REQ-2026-000182",
+    "authorized_at": "2026-04-01T04:50:00Z",
+    "expiration_date": "2026-04-15T04:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000176",
+    "return_request_id": "RMA-REQ-2026-000183",
+    "authorized_at": "2026-04-30T14:54:00Z",
+    "expiration_date": "2026-05-14T14:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000177",
+    "return_request_id": "RMA-REQ-2026-000184",
+    "authorized_at": "2026-05-23T18:16:00Z",
+    "expiration_date": "2026-06-06T18:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000178",
+    "return_request_id": "RMA-REQ-2026-000185",
+    "authorized_at": "2026-06-12T07:04:00Z",
+    "expiration_date": "2026-06-26T07:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000179",
+    "return_request_id": "RMA-REQ-2026-000186",
+    "authorized_at": "2026-11-22T17:49:00Z",
+    "expiration_date": "2026-12-06T17:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000180",
+    "return_request_id": "RMA-REQ-2026-000187",
+    "authorized_at": "2026-08-28T19:33:00Z",
+    "expiration_date": "2026-09-11T19:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000181",
+    "return_request_id": "RMA-REQ-2026-000188",
+    "authorized_at": "2026-01-26T14:59:00Z",
+    "expiration_date": "2026-02-09T14:59:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000182",
+    "return_request_id": "RMA-REQ-2026-000189",
+    "authorized_at": "2026-10-11T05:22:00Z",
+    "expiration_date": "2026-10-25T05:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000183",
+    "return_request_id": "RMA-REQ-2026-000190",
+    "authorized_at": "2026-06-29T06:10:00Z",
+    "expiration_date": "2026-07-13T06:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000184",
+    "return_request_id": "RMA-REQ-2026-000191",
+    "authorized_at": "2026-11-11T03:48:00Z",
+    "expiration_date": "2026-11-25T03:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000185",
+    "return_request_id": "RMA-REQ-2026-000192",
+    "authorized_at": "2026-08-07T12:40:00Z",
+    "expiration_date": "2026-08-21T12:40:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000186",
+    "return_request_id": "RMA-REQ-2026-000193",
+    "authorized_at": "2026-10-19T21:35:00Z",
+    "expiration_date": "2026-11-02T21:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000187",
+    "return_request_id": "RMA-REQ-2026-000194",
+    "authorized_at": "2026-03-14T10:19:00Z",
+    "expiration_date": "2026-03-28T10:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000188",
+    "return_request_id": "RMA-REQ-2026-000195",
+    "authorized_at": "2026-05-05T08:54:00Z",
+    "expiration_date": "2026-05-19T08:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000189",
+    "return_request_id": "RMA-REQ-2026-000196",
+    "authorized_at": "2026-11-13T14:06:00Z",
+    "expiration_date": "2026-11-27T14:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000190",
+    "return_request_id": "RMA-REQ-2026-000197",
+    "authorized_at": "2026-07-19T08:01:00Z",
+    "expiration_date": "2026-08-02T08:01:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000191",
+    "return_request_id": "RMA-REQ-2026-000198",
+    "authorized_at": "2026-03-14T01:27:00Z",
+    "expiration_date": "2026-03-28T01:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000192",
+    "return_request_id": "RMA-REQ-2026-000199",
+    "authorized_at": "2026-09-09T21:06:00Z",
+    "expiration_date": "2026-09-23T21:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000193",
+    "return_request_id": "RMA-REQ-2026-000200",
+    "authorized_at": "2026-04-07T22:44:00Z",
+    "expiration_date": "2026-04-21T22:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000194",
+    "return_request_id": "RMA-REQ-2026-000201",
+    "authorized_at": "2026-06-12T17:45:00Z",
+    "expiration_date": "2026-06-26T17:45:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000195",
+    "return_request_id": "RMA-REQ-2026-000202",
+    "authorized_at": "2026-11-12T09:34:00Z",
+    "expiration_date": "2026-11-26T09:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000196",
+    "return_request_id": "RMA-REQ-2026-000203",
+    "authorized_at": "2026-12-15T22:54:00Z",
+    "expiration_date": "2026-12-29T22:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000197",
+    "return_request_id": "RMA-REQ-2026-000204",
+    "authorized_at": "2026-07-31T22:03:00Z",
+    "expiration_date": "2026-08-14T22:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000198",
+    "return_request_id": "RMA-REQ-2026-000205",
+    "authorized_at": "2026-06-21T02:00:00Z",
+    "expiration_date": "2026-07-05T02:00:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000199",
+    "return_request_id": "RMA-REQ-2026-000206",
+    "authorized_at": "2027-01-05T15:23:00Z",
+    "expiration_date": "2027-01-19T15:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000200",
+    "return_request_id": "RMA-REQ-2026-000207",
+    "authorized_at": "2026-02-12T17:02:00Z",
+    "expiration_date": "2026-02-26T17:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000201",
+    "return_request_id": "RMA-REQ-2026-000208",
+    "authorized_at": "2027-01-01T10:29:00Z",
+    "expiration_date": "2027-01-15T10:29:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000202",
+    "return_request_id": "RMA-REQ-2026-000209",
+    "authorized_at": "2026-03-22T09:41:00Z",
+    "expiration_date": "2026-04-05T09:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000203",
+    "return_request_id": "RMA-REQ-2026-000210",
+    "authorized_at": "2026-12-08T03:31:00Z",
+    "expiration_date": "2026-12-22T03:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000204",
+    "return_request_id": "RMA-REQ-2026-000211",
+    "authorized_at": "2026-10-25T21:22:00Z",
+    "expiration_date": "2026-11-08T21:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000205",
+    "return_request_id": "RMA-REQ-2026-000212",
+    "authorized_at": "2026-06-19T03:47:00Z",
+    "expiration_date": "2026-07-03T03:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000206",
+    "return_request_id": "RMA-REQ-2026-000213",
+    "authorized_at": "2026-06-12T15:34:00Z",
+    "expiration_date": "2026-06-26T15:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000207",
+    "return_request_id": "RMA-REQ-2026-000214",
+    "authorized_at": "2027-01-04T22:55:00Z",
+    "expiration_date": "2027-01-18T22:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000208",
+    "return_request_id": "RMA-REQ-2026-000215",
+    "authorized_at": "2026-12-03T14:40:00Z",
+    "expiration_date": "2026-12-17T14:40:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000209",
+    "return_request_id": "RMA-REQ-2026-000216",
+    "authorized_at": "2026-05-12T11:02:00Z",
+    "expiration_date": "2026-05-26T11:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000210",
+    "return_request_id": "RMA-REQ-2026-000217",
+    "authorized_at": "2026-08-05T08:05:00Z",
+    "expiration_date": "2026-08-19T08:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000211",
+    "return_request_id": "RMA-REQ-2026-000218",
+    "authorized_at": "2026-03-23T19:34:00Z",
+    "expiration_date": "2026-04-06T19:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000212",
+    "return_request_id": "RMA-REQ-2026-000219",
+    "authorized_at": "2026-12-01T00:30:00Z",
+    "expiration_date": "2026-12-15T00:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000213",
+    "return_request_id": "RMA-REQ-2026-000220",
+    "authorized_at": "2026-03-05T07:45:00Z",
+    "expiration_date": "2026-03-19T07:45:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000214",
+    "return_request_id": "RMA-REQ-2026-000221",
+    "authorized_at": "2026-10-20T03:01:00Z",
+    "expiration_date": "2026-11-03T03:01:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000215",
+    "return_request_id": "RMA-REQ-2026-000222",
+    "authorized_at": "2026-11-16T20:11:00Z",
+    "expiration_date": "2026-11-30T20:11:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000216",
+    "return_request_id": "RMA-REQ-2026-000223",
+    "authorized_at": "2026-12-12T12:57:00Z",
+    "expiration_date": "2026-12-26T12:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000217",
+    "return_request_id": "RMA-REQ-2026-000224",
+    "authorized_at": "2026-09-29T17:00:00Z",
+    "expiration_date": "2026-10-13T17:00:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000218",
+    "return_request_id": "RMA-REQ-2026-000225",
+    "authorized_at": "2026-08-13T04:11:00Z",
+    "expiration_date": "2026-08-27T04:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000219",
+    "return_request_id": "RMA-REQ-2026-000226",
+    "authorized_at": "2026-05-20T21:55:00Z",
+    "expiration_date": "2026-06-03T21:55:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000220",
+    "return_request_id": "RMA-REQ-2026-000227",
+    "authorized_at": "2026-04-06T07:51:00Z",
+    "expiration_date": "2026-04-20T07:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000221",
+    "return_request_id": "RMA-REQ-2026-000228",
+    "authorized_at": "2026-01-31T06:44:00Z",
+    "expiration_date": "2026-02-14T06:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000222",
+    "return_request_id": "RMA-REQ-2026-000229",
+    "authorized_at": "2026-03-28T11:45:00Z",
+    "expiration_date": "2026-04-11T11:45:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000223",
+    "return_request_id": "RMA-REQ-2026-000231",
+    "authorized_at": "2026-04-07T00:39:00Z",
+    "expiration_date": "2026-04-21T00:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000224",
+    "return_request_id": "RMA-REQ-2026-000232",
+    "authorized_at": "2026-07-31T14:37:00Z",
+    "expiration_date": "2026-08-14T14:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000225",
+    "return_request_id": "RMA-REQ-2026-000233",
+    "authorized_at": "2026-05-02T14:30:00Z",
+    "expiration_date": "2026-05-16T14:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000226",
+    "return_request_id": "RMA-REQ-2026-000234",
+    "authorized_at": "2026-11-27T20:31:00Z",
+    "expiration_date": "2026-12-11T20:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000227",
+    "return_request_id": "RMA-REQ-2026-000235",
+    "authorized_at": "2026-08-09T04:25:00Z",
+    "expiration_date": "2026-08-23T04:25:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000228",
+    "return_request_id": "RMA-REQ-2026-000236",
+    "authorized_at": "2026-03-15T08:42:00Z",
+    "expiration_date": "2026-03-29T08:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000229",
+    "return_request_id": "RMA-REQ-2026-000237",
+    "authorized_at": "2026-04-21T08:56:00Z",
+    "expiration_date": "2026-05-05T08:56:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000230",
+    "return_request_id": "RMA-REQ-2026-000238",
+    "authorized_at": "2026-05-14T02:15:00Z",
+    "expiration_date": "2026-05-28T02:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000231",
+    "return_request_id": "RMA-REQ-2026-000239",
+    "authorized_at": "2027-01-08T00:16:00Z",
+    "expiration_date": "2027-01-22T00:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000232",
+    "return_request_id": "RMA-REQ-2026-000240",
+    "authorized_at": "2026-06-23T15:27:00Z",
+    "expiration_date": "2026-07-07T15:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000233",
+    "return_request_id": "RMA-REQ-2026-000241",
+    "authorized_at": "2026-06-28T17:23:00Z",
+    "expiration_date": "2026-07-12T17:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000234",
+    "return_request_id": "RMA-REQ-2026-000242",
+    "authorized_at": "2026-11-30T11:50:00Z",
+    "expiration_date": "2026-12-14T11:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000235",
+    "return_request_id": "RMA-REQ-2026-000243",
+    "authorized_at": "2026-09-09T23:31:00Z",
+    "expiration_date": "2026-09-23T23:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000236",
+    "return_request_id": "RMA-REQ-2026-000244",
+    "authorized_at": "2026-05-24T04:19:00Z",
+    "expiration_date": "2026-06-07T04:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000237",
+    "return_request_id": "RMA-REQ-2026-000245",
+    "authorized_at": "2027-01-03T23:07:00Z",
+    "expiration_date": "2027-01-17T23:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000238",
+    "return_request_id": "RMA-REQ-2026-000246",
+    "authorized_at": "2026-08-01T13:28:00Z",
+    "expiration_date": "2026-08-15T13:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000239",
+    "return_request_id": "RMA-REQ-2026-000247",
+    "authorized_at": "2026-09-27T09:04:00Z",
+    "expiration_date": "2026-10-11T09:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000240",
+    "return_request_id": "RMA-REQ-2026-000248",
+    "authorized_at": "2026-03-05T16:48:00Z",
+    "expiration_date": "2026-03-19T16:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000241",
+    "return_request_id": "RMA-REQ-2026-000249",
+    "authorized_at": "2026-05-08T15:06:00Z",
+    "expiration_date": "2026-05-22T15:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000242",
+    "return_request_id": "RMA-REQ-2026-000250",
+    "authorized_at": "2026-11-26T08:50:00Z",
+    "expiration_date": "2026-12-10T08:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000243",
+    "return_request_id": "RMA-REQ-2026-000251",
+    "authorized_at": "2026-12-24T03:25:00Z",
+    "expiration_date": "2027-01-07T03:25:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000244",
+    "return_request_id": "RMA-REQ-2026-000252",
+    "authorized_at": "2026-03-02T02:21:00Z",
+    "expiration_date": "2026-03-16T02:21:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000245",
+    "return_request_id": "RMA-REQ-2026-000254",
+    "authorized_at": "2026-10-06T18:47:00Z",
+    "expiration_date": "2026-10-20T18:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000246",
+    "return_request_id": "RMA-REQ-2026-000255",
+    "authorized_at": "2026-11-19T06:41:00Z",
+    "expiration_date": "2026-12-03T06:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000247",
+    "return_request_id": "RMA-REQ-2026-000256",
+    "authorized_at": "2027-01-01T13:57:00Z",
+    "expiration_date": "2027-01-15T13:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000248",
+    "return_request_id": "RMA-REQ-2026-000257",
+    "authorized_at": "2026-02-06T11:16:00Z",
+    "expiration_date": "2026-02-20T11:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000249",
+    "return_request_id": "RMA-REQ-2026-000258",
+    "authorized_at": "2026-06-23T19:05:00Z",
+    "expiration_date": "2026-07-07T19:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000250",
+    "return_request_id": "RMA-REQ-2026-000260",
+    "authorized_at": "2026-08-25T16:08:00Z",
+    "expiration_date": "2026-09-08T16:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000251",
+    "return_request_id": "RMA-REQ-2026-000261",
+    "authorized_at": "2026-08-30T12:20:00Z",
+    "expiration_date": "2026-09-13T12:20:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000252",
+    "return_request_id": "RMA-REQ-2026-000262",
+    "authorized_at": "2026-10-31T05:55:00Z",
+    "expiration_date": "2026-11-14T05:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000253",
+    "return_request_id": "RMA-REQ-2026-000263",
+    "authorized_at": "2026-04-27T03:36:00Z",
+    "expiration_date": "2026-05-11T03:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000254",
+    "return_request_id": "RMA-REQ-2026-000264",
+    "authorized_at": "2026-07-26T04:42:00Z",
+    "expiration_date": "2026-08-09T04:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000255",
+    "return_request_id": "RMA-REQ-2026-000265",
+    "authorized_at": "2026-09-23T23:52:00Z",
+    "expiration_date": "2026-10-07T23:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000256",
+    "return_request_id": "RMA-REQ-2026-000266",
+    "authorized_at": "2026-10-23T23:50:00Z",
+    "expiration_date": "2026-11-06T23:50:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000257",
+    "return_request_id": "RMA-REQ-2026-000267",
+    "authorized_at": "2026-06-27T18:50:00Z",
+    "expiration_date": "2026-07-11T18:50:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000258",
+    "return_request_id": "RMA-REQ-2026-000268",
+    "authorized_at": "2026-08-12T22:38:00Z",
+    "expiration_date": "2026-08-26T22:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000259",
+    "return_request_id": "RMA-REQ-2026-000270",
+    "authorized_at": "2026-10-12T14:10:00Z",
+    "expiration_date": "2026-10-26T14:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000260",
+    "return_request_id": "RMA-REQ-2026-000271",
+    "authorized_at": "2026-03-10T00:18:00Z",
+    "expiration_date": "2026-03-24T00:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000261",
+    "return_request_id": "RMA-REQ-2026-000272",
+    "authorized_at": "2026-04-17T21:19:00Z",
+    "expiration_date": "2026-05-01T21:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000262",
+    "return_request_id": "RMA-REQ-2026-000273",
+    "authorized_at": "2026-09-09T17:17:00Z",
+    "expiration_date": "2026-09-23T17:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000263",
+    "return_request_id": "RMA-REQ-2026-000274",
+    "authorized_at": "2026-09-29T23:34:00Z",
+    "expiration_date": "2026-10-13T23:34:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000264",
+    "return_request_id": "RMA-REQ-2026-000275",
+    "authorized_at": "2026-08-12T15:37:00Z",
+    "expiration_date": "2026-08-26T15:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000265",
+    "return_request_id": "RMA-REQ-2026-000276",
+    "authorized_at": "2026-04-16T17:03:00Z",
+    "expiration_date": "2026-04-30T17:03:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000266",
+    "return_request_id": "RMA-REQ-2026-000277",
+    "authorized_at": "2026-05-03T01:20:00Z",
+    "expiration_date": "2026-05-17T01:20:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000267",
+    "return_request_id": "RMA-REQ-2026-000279",
+    "authorized_at": "2026-03-17T18:55:00Z",
+    "expiration_date": "2026-03-31T18:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000268",
+    "return_request_id": "RMA-REQ-2026-000280",
+    "authorized_at": "2026-12-10T20:59:00Z",
+    "expiration_date": "2026-12-24T20:59:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000269",
+    "return_request_id": "RMA-REQ-2026-000281",
+    "authorized_at": "2026-12-10T00:55:00Z",
+    "expiration_date": "2026-12-24T00:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000270",
+    "return_request_id": "RMA-REQ-2026-000282",
+    "authorized_at": "2026-11-26T20:32:00Z",
+    "expiration_date": "2026-12-10T20:32:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000271",
+    "return_request_id": "RMA-REQ-2026-000283",
+    "authorized_at": "2026-09-29T12:48:00Z",
+    "expiration_date": "2026-10-13T12:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000272",
+    "return_request_id": "RMA-REQ-2026-000284",
+    "authorized_at": "2026-05-23T01:58:00Z",
+    "expiration_date": "2026-06-06T01:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000273",
+    "return_request_id": "RMA-REQ-2026-000285",
+    "authorized_at": "2026-02-12T23:42:00Z",
+    "expiration_date": "2026-02-26T23:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000274",
+    "return_request_id": "RMA-REQ-2026-000286",
+    "authorized_at": "2026-03-31T05:39:00Z",
+    "expiration_date": "2026-04-14T05:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000275",
+    "return_request_id": "RMA-REQ-2026-000288",
+    "authorized_at": "2026-12-01T23:52:00Z",
+    "expiration_date": "2026-12-15T23:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000276",
+    "return_request_id": "RMA-REQ-2026-000289",
+    "authorized_at": "2026-02-04T21:22:00Z",
+    "expiration_date": "2026-02-18T21:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000277",
+    "return_request_id": "RMA-REQ-2026-000290",
+    "authorized_at": "2027-01-21T09:57:00Z",
+    "expiration_date": "2027-02-04T09:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000278",
+    "return_request_id": "RMA-REQ-2026-000291",
+    "authorized_at": "2026-08-23T15:47:00Z",
+    "expiration_date": "2026-09-06T15:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000279",
+    "return_request_id": "RMA-REQ-2026-000292",
+    "authorized_at": "2026-12-05T10:53:00Z",
+    "expiration_date": "2026-12-19T10:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000280",
+    "return_request_id": "RMA-REQ-2026-000293",
+    "authorized_at": "2026-04-08T11:53:00Z",
+    "expiration_date": "2026-04-22T11:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000281",
+    "return_request_id": "RMA-REQ-2026-000294",
+    "authorized_at": "2026-07-25T18:55:00Z",
+    "expiration_date": "2026-08-08T18:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000282",
+    "return_request_id": "RMA-REQ-2026-000296",
+    "authorized_at": "2027-01-02T23:10:00Z",
+    "expiration_date": "2027-01-16T23:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000283",
+    "return_request_id": "RMA-REQ-2026-000297",
+    "authorized_at": "2026-03-19T03:02:00Z",
+    "expiration_date": "2026-04-02T03:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000284",
+    "return_request_id": "RMA-REQ-2026-000298",
+    "authorized_at": "2026-07-26T03:55:00Z",
+    "expiration_date": "2026-08-09T03:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000285",
+    "return_request_id": "RMA-REQ-2026-000300",
+    "authorized_at": "2026-02-15T04:23:00Z",
+    "expiration_date": "2026-03-01T04:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000286",
+    "return_request_id": "RMA-REQ-2026-000301",
+    "authorized_at": "2027-01-13T18:46:00Z",
+    "expiration_date": "2027-01-27T18:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000287",
+    "return_request_id": "RMA-REQ-2026-000302",
+    "authorized_at": "2026-05-07T00:11:00Z",
+    "expiration_date": "2026-05-21T00:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000288",
+    "return_request_id": "RMA-REQ-2026-000303",
+    "authorized_at": "2026-12-03T11:52:00Z",
+    "expiration_date": "2026-12-17T11:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000289",
+    "return_request_id": "RMA-REQ-2026-000304",
+    "authorized_at": "2026-02-18T07:36:00Z",
+    "expiration_date": "2026-03-04T07:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000290",
+    "return_request_id": "RMA-REQ-2026-000305",
+    "authorized_at": "2026-04-05T08:56:00Z",
+    "expiration_date": "2026-04-19T08:56:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000291",
+    "return_request_id": "RMA-REQ-2026-000306",
+    "authorized_at": "2026-11-19T16:27:00Z",
+    "expiration_date": "2026-12-03T16:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000292",
+    "return_request_id": "RMA-REQ-2026-000307",
+    "authorized_at": "2027-01-16T04:06:00Z",
+    "expiration_date": "2027-01-30T04:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000293",
+    "return_request_id": "RMA-REQ-2026-000308",
+    "authorized_at": "2026-05-30T14:09:00Z",
+    "expiration_date": "2026-06-13T14:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000294",
+    "return_request_id": "RMA-REQ-2026-000309",
+    "authorized_at": "2026-10-03T06:27:00Z",
+    "expiration_date": "2026-10-17T06:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000295",
+    "return_request_id": "RMA-REQ-2026-000310",
+    "authorized_at": "2026-05-27T06:11:00Z",
+    "expiration_date": "2026-06-10T06:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000296",
+    "return_request_id": "RMA-REQ-2026-000311",
+    "authorized_at": "2026-10-02T11:28:00Z",
+    "expiration_date": "2026-10-16T11:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000297",
+    "return_request_id": "RMA-REQ-2026-000312",
+    "authorized_at": "2026-01-30T17:53:00Z",
+    "expiration_date": "2026-02-13T17:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000298",
+    "return_request_id": "RMA-REQ-2026-000313",
+    "authorized_at": "2026-08-19T03:39:00Z",
+    "expiration_date": "2026-09-02T03:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000299",
+    "return_request_id": "RMA-REQ-2026-000314",
+    "authorized_at": "2026-05-27T20:51:00Z",
+    "expiration_date": "2026-06-10T20:51:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000300",
+    "return_request_id": "RMA-REQ-2026-000316",
+    "authorized_at": "2026-05-06T05:52:00Z",
+    "expiration_date": "2026-05-20T05:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000301",
+    "return_request_id": "RMA-REQ-2026-000317",
+    "authorized_at": "2026-05-01T23:31:00Z",
+    "expiration_date": "2026-05-15T23:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000302",
+    "return_request_id": "RMA-REQ-2026-000318",
+    "authorized_at": "2026-04-24T00:53:00Z",
+    "expiration_date": "2026-05-08T00:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000303",
+    "return_request_id": "RMA-REQ-2026-000319",
+    "authorized_at": "2026-03-20T09:57:00Z",
+    "expiration_date": "2026-04-03T09:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000304",
+    "return_request_id": "RMA-REQ-2026-000320",
+    "authorized_at": "2026-12-03T16:42:00Z",
+    "expiration_date": "2026-12-17T16:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000305",
+    "return_request_id": "RMA-REQ-2026-000321",
+    "authorized_at": "2026-04-27T21:28:00Z",
+    "expiration_date": "2026-05-11T21:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000306",
+    "return_request_id": "RMA-REQ-2026-000322",
+    "authorized_at": "2026-10-18T01:12:00Z",
+    "expiration_date": "2026-11-01T01:12:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000307",
+    "return_request_id": "RMA-REQ-2026-000323",
+    "authorized_at": "2026-04-05T23:17:00Z",
+    "expiration_date": "2026-04-19T23:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000308",
+    "return_request_id": "RMA-REQ-2026-000324",
+    "authorized_at": "2026-08-27T23:41:00Z",
+    "expiration_date": "2026-09-10T23:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000309",
+    "return_request_id": "RMA-REQ-2026-000325",
+    "authorized_at": "2027-01-12T10:58:00Z",
+    "expiration_date": "2027-01-26T10:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000310",
+    "return_request_id": "RMA-REQ-2026-000326",
+    "authorized_at": "2026-10-21T02:41:00Z",
+    "expiration_date": "2026-11-04T02:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000311",
+    "return_request_id": "RMA-REQ-2026-000327",
+    "authorized_at": "2026-12-11T04:36:00Z",
+    "expiration_date": "2026-12-25T04:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000312",
+    "return_request_id": "RMA-REQ-2026-000328",
+    "authorized_at": "2026-04-05T05:31:00Z",
+    "expiration_date": "2026-04-19T05:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000313",
+    "return_request_id": "RMA-REQ-2026-000329",
+    "authorized_at": "2026-12-02T22:49:00Z",
+    "expiration_date": "2026-12-16T22:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000314",
+    "return_request_id": "RMA-REQ-2026-000330",
+    "authorized_at": "2026-02-12T15:18:00Z",
+    "expiration_date": "2026-02-26T15:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000315",
+    "return_request_id": "RMA-REQ-2026-000331",
+    "authorized_at": "2026-04-19T13:05:00Z",
+    "expiration_date": "2026-05-03T13:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000316",
+    "return_request_id": "RMA-REQ-2026-000332",
+    "authorized_at": "2026-11-03T02:37:00Z",
+    "expiration_date": "2026-11-17T02:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000317",
+    "return_request_id": "RMA-REQ-2026-000333",
+    "authorized_at": "2026-02-11T07:10:00Z",
+    "expiration_date": "2026-02-25T07:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000318",
+    "return_request_id": "RMA-REQ-2026-000334",
+    "authorized_at": "2026-12-12T10:40:00Z",
+    "expiration_date": "2026-12-26T10:40:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000319",
+    "return_request_id": "RMA-REQ-2026-000335",
+    "authorized_at": "2026-04-07T09:18:00Z",
+    "expiration_date": "2026-04-21T09:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000320",
+    "return_request_id": "RMA-REQ-2026-000336",
+    "authorized_at": "2026-11-23T16:08:00Z",
+    "expiration_date": "2026-12-07T16:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000321",
+    "return_request_id": "RMA-REQ-2026-000337",
+    "authorized_at": "2026-10-21T12:36:00Z",
+    "expiration_date": "2026-11-04T12:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000322",
+    "return_request_id": "RMA-REQ-2026-000339",
+    "authorized_at": "2026-12-15T13:44:00Z",
+    "expiration_date": "2026-12-29T13:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000323",
+    "return_request_id": "RMA-REQ-2026-000341",
+    "authorized_at": "2026-12-24T17:15:00Z",
+    "expiration_date": "2027-01-07T17:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000324",
+    "return_request_id": "RMA-REQ-2026-000342",
+    "authorized_at": "2026-04-23T18:15:00Z",
+    "expiration_date": "2026-05-07T18:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000325",
+    "return_request_id": "RMA-REQ-2026-000343",
+    "authorized_at": "2026-02-27T19:49:00Z",
+    "expiration_date": "2026-03-13T19:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000326",
+    "return_request_id": "RMA-REQ-2026-000344",
+    "authorized_at": "2026-07-04T22:22:00Z",
+    "expiration_date": "2026-07-18T22:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000327",
+    "return_request_id": "RMA-REQ-2026-000345",
+    "authorized_at": "2026-02-23T16:42:00Z",
+    "expiration_date": "2026-03-09T16:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000328",
+    "return_request_id": "RMA-REQ-2026-000346",
+    "authorized_at": "2026-12-16T17:05:00Z",
+    "expiration_date": "2026-12-30T17:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000329",
+    "return_request_id": "RMA-REQ-2026-000347",
+    "authorized_at": "2026-12-03T02:04:00Z",
+    "expiration_date": "2026-12-17T02:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000330",
+    "return_request_id": "RMA-REQ-2026-000348",
+    "authorized_at": "2026-10-21T16:15:00Z",
+    "expiration_date": "2026-11-04T16:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000331",
+    "return_request_id": "RMA-REQ-2026-000349",
+    "authorized_at": "2026-09-15T15:53:00Z",
+    "expiration_date": "2026-09-29T15:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000332",
+    "return_request_id": "RMA-REQ-2026-000350",
+    "authorized_at": "2026-05-13T04:07:00Z",
+    "expiration_date": "2026-05-27T04:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000333",
+    "return_request_id": "RMA-REQ-2026-000351",
+    "authorized_at": "2026-07-27T23:46:00Z",
+    "expiration_date": "2026-08-10T23:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000334",
+    "return_request_id": "RMA-REQ-2026-000352",
+    "authorized_at": "2026-06-24T16:58:00Z",
+    "expiration_date": "2026-07-08T16:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000335",
+    "return_request_id": "RMA-REQ-2026-000353",
+    "authorized_at": "2026-07-23T00:13:00Z",
+    "expiration_date": "2026-08-06T00:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000336",
+    "return_request_id": "RMA-REQ-2026-000355",
+    "authorized_at": "2026-07-11T04:11:00Z",
+    "expiration_date": "2026-07-25T04:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000337",
+    "return_request_id": "RMA-REQ-2026-000356",
+    "authorized_at": "2026-10-14T05:47:00Z",
+    "expiration_date": "2026-10-28T05:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000338",
+    "return_request_id": "RMA-REQ-2026-000357",
+    "authorized_at": "2026-11-29T13:15:00Z",
+    "expiration_date": "2026-12-13T13:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000339",
+    "return_request_id": "RMA-REQ-2026-000358",
+    "authorized_at": "2026-07-14T10:41:00Z",
+    "expiration_date": "2026-07-28T10:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000340",
+    "return_request_id": "RMA-REQ-2026-000359",
+    "authorized_at": "2026-12-30T20:48:00Z",
+    "expiration_date": "2027-01-13T20:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000341",
+    "return_request_id": "RMA-REQ-2026-000360",
+    "authorized_at": "2026-08-10T04:06:00Z",
+    "expiration_date": "2026-08-24T04:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000342",
+    "return_request_id": "RMA-REQ-2026-000361",
+    "authorized_at": "2026-07-01T18:16:00Z",
+    "expiration_date": "2026-07-15T18:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000343",
+    "return_request_id": "RMA-REQ-2026-000362",
+    "authorized_at": "2026-06-12T16:10:00Z",
+    "expiration_date": "2026-06-26T16:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000344",
+    "return_request_id": "RMA-REQ-2026-000363",
+    "authorized_at": "2026-07-06T05:25:00Z",
+    "expiration_date": "2026-07-20T05:25:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000345",
+    "return_request_id": "RMA-REQ-2026-000364",
+    "authorized_at": "2026-10-27T19:36:00Z",
+    "expiration_date": "2026-11-10T19:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000346",
+    "return_request_id": "RMA-REQ-2026-000365",
+    "authorized_at": "2026-05-17T15:08:00Z",
+    "expiration_date": "2026-05-31T15:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000347",
+    "return_request_id": "RMA-REQ-2026-000366",
+    "authorized_at": "2026-10-22T00:38:00Z",
+    "expiration_date": "2026-11-05T00:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000348",
+    "return_request_id": "RMA-REQ-2026-000367",
+    "authorized_at": "2026-10-27T03:28:00Z",
+    "expiration_date": "2026-11-10T03:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000349",
+    "return_request_id": "RMA-REQ-2026-000368",
+    "authorized_at": "2026-11-02T11:13:00Z",
+    "expiration_date": "2026-11-16T11:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000350",
+    "return_request_id": "RMA-REQ-2026-000370",
+    "authorized_at": "2026-12-25T23:06:00Z",
+    "expiration_date": "2027-01-08T23:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000351",
+    "return_request_id": "RMA-REQ-2026-000371",
+    "authorized_at": "2026-02-20T19:49:00Z",
+    "expiration_date": "2026-03-06T19:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000352",
+    "return_request_id": "RMA-REQ-2026-000372",
+    "authorized_at": "2026-10-06T20:47:00Z",
+    "expiration_date": "2026-10-20T20:47:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000353",
+    "return_request_id": "RMA-REQ-2026-000373",
+    "authorized_at": "2026-10-30T22:26:00Z",
+    "expiration_date": "2026-11-13T22:26:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000354",
+    "return_request_id": "RMA-REQ-2026-000374",
+    "authorized_at": "2027-01-11T10:38:00Z",
+    "expiration_date": "2027-01-25T10:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000355",
+    "return_request_id": "RMA-REQ-2026-000375",
+    "authorized_at": "2026-09-12T04:58:00Z",
+    "expiration_date": "2026-09-26T04:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000356",
+    "return_request_id": "RMA-REQ-2026-000377",
+    "authorized_at": "2026-02-11T20:19:00Z",
+    "expiration_date": "2026-02-25T20:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000357",
+    "return_request_id": "RMA-REQ-2026-000378",
+    "authorized_at": "2026-11-09T13:31:00Z",
+    "expiration_date": "2026-11-23T13:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000358",
+    "return_request_id": "RMA-REQ-2026-000380",
+    "authorized_at": "2026-09-07T02:35:00Z",
+    "expiration_date": "2026-09-21T02:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000359",
+    "return_request_id": "RMA-REQ-2026-000381",
+    "authorized_at": "2026-12-31T14:55:00Z",
+    "expiration_date": "2027-01-14T14:55:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000360",
+    "return_request_id": "RMA-REQ-2026-000382",
+    "authorized_at": "2026-08-27T23:09:00Z",
+    "expiration_date": "2026-09-10T23:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000361",
+    "return_request_id": "RMA-REQ-2026-000384",
+    "authorized_at": "2026-07-22T15:27:00Z",
+    "expiration_date": "2026-08-05T15:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000362",
+    "return_request_id": "RMA-REQ-2026-000385",
+    "authorized_at": "2026-06-23T17:15:00Z",
+    "expiration_date": "2026-07-07T17:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000363",
+    "return_request_id": "RMA-REQ-2026-000386",
+    "authorized_at": "2026-06-17T11:10:00Z",
+    "expiration_date": "2026-07-01T11:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000364",
+    "return_request_id": "RMA-REQ-2026-000387",
+    "authorized_at": "2026-11-22T08:59:00Z",
+    "expiration_date": "2026-12-06T08:59:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000365",
+    "return_request_id": "RMA-REQ-2026-000389",
+    "authorized_at": "2026-11-02T10:37:00Z",
+    "expiration_date": "2026-11-16T10:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000366",
+    "return_request_id": "RMA-REQ-2026-000390",
+    "authorized_at": "2026-04-23T13:04:00Z",
+    "expiration_date": "2026-05-07T13:04:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000367",
+    "return_request_id": "RMA-REQ-2026-000391",
+    "authorized_at": "2027-01-05T00:57:00Z",
+    "expiration_date": "2027-01-19T00:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000368",
+    "return_request_id": "RMA-REQ-2026-000392",
+    "authorized_at": "2026-02-05T13:11:00Z",
+    "expiration_date": "2026-02-19T13:11:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000369",
+    "return_request_id": "RMA-REQ-2026-000393",
+    "authorized_at": "2026-10-11T22:44:00Z",
+    "expiration_date": "2026-10-25T22:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000370",
+    "return_request_id": "RMA-REQ-2026-000394",
+    "authorized_at": "2026-11-15T01:35:00Z",
+    "expiration_date": "2026-11-29T01:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000371",
+    "return_request_id": "RMA-REQ-2026-000395",
+    "authorized_at": "2026-06-26T06:30:00Z",
+    "expiration_date": "2026-07-10T06:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000372",
+    "return_request_id": "RMA-REQ-2026-000396",
+    "authorized_at": "2027-01-08T20:54:00Z",
+    "expiration_date": "2027-01-22T20:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000373",
+    "return_request_id": "RMA-REQ-2026-000397",
+    "authorized_at": "2026-10-22T11:18:00Z",
+    "expiration_date": "2026-11-05T11:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000374",
+    "return_request_id": "RMA-REQ-2026-000398",
+    "authorized_at": "2026-02-06T13:39:00Z",
+    "expiration_date": "2026-02-20T13:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000375",
+    "return_request_id": "RMA-REQ-2026-000399",
+    "authorized_at": "2026-12-29T18:17:00Z",
+    "expiration_date": "2027-01-12T18:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000376",
+    "return_request_id": "RMA-REQ-2026-000400",
+    "authorized_at": "2026-08-16T06:09:00Z",
+    "expiration_date": "2026-08-30T06:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000377",
+    "return_request_id": "RMA-REQ-2026-000401",
+    "authorized_at": "2026-08-03T02:38:00Z",
+    "expiration_date": "2026-08-17T02:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000378",
+    "return_request_id": "RMA-REQ-2026-000403",
+    "authorized_at": "2026-12-02T05:50:00Z",
+    "expiration_date": "2026-12-16T05:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000379",
+    "return_request_id": "RMA-REQ-2026-000404",
+    "authorized_at": "2026-05-04T08:23:00Z",
+    "expiration_date": "2026-05-18T08:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000380",
+    "return_request_id": "RMA-REQ-2026-000405",
+    "authorized_at": "2026-02-20T04:20:00Z",
+    "expiration_date": "2026-03-06T04:20:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000381",
+    "return_request_id": "RMA-REQ-2026-000406",
+    "authorized_at": "2026-06-24T05:35:00Z",
+    "expiration_date": "2026-07-08T05:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000382",
+    "return_request_id": "RMA-REQ-2026-000407",
+    "authorized_at": "2026-03-26T17:24:00Z",
+    "expiration_date": "2026-04-09T17:24:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000383",
+    "return_request_id": "RMA-REQ-2026-000408",
+    "authorized_at": "2026-08-24T11:39:00Z",
+    "expiration_date": "2026-09-07T11:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000384",
+    "return_request_id": "RMA-REQ-2026-000409",
+    "authorized_at": "2026-10-22T08:35:00Z",
+    "expiration_date": "2026-11-05T08:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000385",
+    "return_request_id": "RMA-REQ-2026-000411",
+    "authorized_at": "2026-07-23T05:06:00Z",
+    "expiration_date": "2026-08-06T05:06:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000386",
+    "return_request_id": "RMA-REQ-2026-000412",
+    "authorized_at": "2026-06-03T04:49:00Z",
+    "expiration_date": "2026-06-17T04:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000387",
+    "return_request_id": "RMA-REQ-2026-000413",
+    "authorized_at": "2026-08-24T18:13:00Z",
+    "expiration_date": "2026-09-07T18:13:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000388",
+    "return_request_id": "RMA-REQ-2026-000414",
+    "authorized_at": "2026-12-03T03:09:00Z",
+    "expiration_date": "2026-12-17T03:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000389",
+    "return_request_id": "RMA-REQ-2026-000415",
+    "authorized_at": "2026-07-09T20:30:00Z",
+    "expiration_date": "2026-07-23T20:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000390",
+    "return_request_id": "RMA-REQ-2026-000416",
+    "authorized_at": "2026-07-26T17:23:00Z",
+    "expiration_date": "2026-08-09T17:23:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000391",
+    "return_request_id": "RMA-REQ-2026-000417",
+    "authorized_at": "2026-08-03T06:31:00Z",
+    "expiration_date": "2026-08-17T06:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000392",
+    "return_request_id": "RMA-REQ-2026-000418",
+    "authorized_at": "2026-06-16T15:42:00Z",
+    "expiration_date": "2026-06-30T15:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000393",
+    "return_request_id": "RMA-REQ-2026-000419",
+    "authorized_at": "2027-01-06T19:31:00Z",
+    "expiration_date": "2027-01-20T19:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000394",
+    "return_request_id": "RMA-REQ-2026-000420",
+    "authorized_at": "2026-09-08T08:50:00Z",
+    "expiration_date": "2026-09-22T08:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000395",
+    "return_request_id": "RMA-REQ-2026-000421",
+    "authorized_at": "2026-02-11T19:33:00Z",
+    "expiration_date": "2026-02-25T19:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000396",
+    "return_request_id": "RMA-REQ-2026-000422",
+    "authorized_at": "2026-12-12T06:41:00Z",
+    "expiration_date": "2026-12-26T06:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000397",
+    "return_request_id": "RMA-REQ-2026-000423",
+    "authorized_at": "2026-05-15T10:50:00Z",
+    "expiration_date": "2026-05-29T10:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000398",
+    "return_request_id": "RMA-REQ-2026-000424",
+    "authorized_at": "2026-12-29T04:19:00Z",
+    "expiration_date": "2027-01-12T04:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000399",
+    "return_request_id": "RMA-REQ-2026-000425",
+    "authorized_at": "2026-06-18T05:57:00Z",
+    "expiration_date": "2026-07-02T05:57:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000400",
+    "return_request_id": "RMA-REQ-2026-000426",
+    "authorized_at": "2026-06-14T14:14:00Z",
+    "expiration_date": "2026-06-28T14:14:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000401",
+    "return_request_id": "RMA-REQ-2026-000427",
+    "authorized_at": "2026-09-28T10:10:00Z",
+    "expiration_date": "2026-10-12T10:10:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000402",
+    "return_request_id": "RMA-REQ-2026-000428",
+    "authorized_at": "2026-07-22T12:07:00Z",
+    "expiration_date": "2026-08-05T12:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000403",
+    "return_request_id": "RMA-REQ-2026-000429",
+    "authorized_at": "2026-12-27T11:49:00Z",
+    "expiration_date": "2027-01-10T11:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000404",
+    "return_request_id": "RMA-REQ-2026-000430",
+    "authorized_at": "2026-02-11T07:31:00Z",
+    "expiration_date": "2026-02-25T07:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000405",
+    "return_request_id": "RMA-REQ-2026-000432",
+    "authorized_at": "2026-07-06T22:12:00Z",
+    "expiration_date": "2026-07-20T22:12:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000406",
+    "return_request_id": "RMA-REQ-2026-000433",
+    "authorized_at": "2026-05-10T17:52:00Z",
+    "expiration_date": "2026-05-24T17:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000407",
+    "return_request_id": "RMA-REQ-2026-000434",
+    "authorized_at": "2026-09-18T07:16:00Z",
+    "expiration_date": "2026-10-02T07:16:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000408",
+    "return_request_id": "RMA-REQ-2026-000435",
+    "authorized_at": "2027-01-05T13:22:00Z",
+    "expiration_date": "2027-01-19T13:22:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000409",
+    "return_request_id": "RMA-REQ-2026-000436",
+    "authorized_at": "2026-09-14T00:48:00Z",
+    "expiration_date": "2026-09-28T00:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000410",
+    "return_request_id": "RMA-REQ-2026-000437",
+    "authorized_at": "2026-03-19T12:15:00Z",
+    "expiration_date": "2026-04-02T12:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000411",
+    "return_request_id": "RMA-REQ-2026-000438",
+    "authorized_at": "2026-04-06T07:49:00Z",
+    "expiration_date": "2026-04-20T07:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000412",
+    "return_request_id": "RMA-REQ-2026-000439",
+    "authorized_at": "2026-04-19T17:17:00Z",
+    "expiration_date": "2026-05-03T17:17:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000413",
+    "return_request_id": "RMA-REQ-2026-000440",
+    "authorized_at": "2026-11-30T14:19:00Z",
+    "expiration_date": "2026-12-14T14:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000414",
+    "return_request_id": "RMA-REQ-2026-000441",
+    "authorized_at": "2026-12-04T19:35:00Z",
+    "expiration_date": "2026-12-18T19:35:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000415",
+    "return_request_id": "RMA-REQ-2026-000442",
+    "authorized_at": "2026-07-29T22:33:00Z",
+    "expiration_date": "2026-08-12T22:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000416",
+    "return_request_id": "RMA-REQ-2026-000443",
+    "authorized_at": "2026-08-02T00:42:00Z",
+    "expiration_date": "2026-08-16T00:42:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000417",
+    "return_request_id": "RMA-REQ-2026-000444",
+    "authorized_at": "2026-08-05T23:26:00Z",
+    "expiration_date": "2026-08-19T23:26:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000418",
+    "return_request_id": "RMA-REQ-2026-000445",
+    "authorized_at": "2026-12-13T08:53:00Z",
+    "expiration_date": "2026-12-27T08:53:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000419",
+    "return_request_id": "RMA-REQ-2026-000446",
+    "authorized_at": "2026-02-03T03:44:00Z",
+    "expiration_date": "2026-02-17T03:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000420",
+    "return_request_id": "RMA-REQ-2026-000447",
+    "authorized_at": "2026-06-07T15:45:00Z",
+    "expiration_date": "2026-06-21T15:45:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000421",
+    "return_request_id": "RMA-REQ-2026-000448",
+    "authorized_at": "2026-04-30T14:00:00Z",
+    "expiration_date": "2026-05-14T14:00:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000422",
+    "return_request_id": "RMA-REQ-2026-000450",
+    "authorized_at": "2026-09-17T19:33:00Z",
+    "expiration_date": "2026-10-01T19:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000423",
+    "return_request_id": "RMA-REQ-2026-000452",
+    "authorized_at": "2026-09-20T04:41:00Z",
+    "expiration_date": "2026-10-04T04:41:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000424",
+    "return_request_id": "RMA-REQ-2026-000453",
+    "authorized_at": "2026-03-21T04:30:00Z",
+    "expiration_date": "2026-04-04T04:30:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000425",
+    "return_request_id": "RMA-REQ-2026-000454",
+    "authorized_at": "2027-01-09T18:31:00Z",
+    "expiration_date": "2027-01-23T18:31:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000426",
+    "return_request_id": "RMA-REQ-2026-000455",
+    "authorized_at": "2026-09-08T06:16:00Z",
+    "expiration_date": "2026-09-22T06:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000427",
+    "return_request_id": "RMA-REQ-2026-000456",
+    "authorized_at": "2026-08-20T13:24:00Z",
+    "expiration_date": "2026-09-03T13:24:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000428",
+    "return_request_id": "RMA-REQ-2026-000457",
+    "authorized_at": "2026-01-30T22:05:00Z",
+    "expiration_date": "2026-02-13T22:05:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000429",
+    "return_request_id": "RMA-REQ-2026-000458",
+    "authorized_at": "2027-01-26T09:16:00Z",
+    "expiration_date": "2027-02-09T09:16:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000430",
+    "return_request_id": "RMA-REQ-2026-000459",
+    "authorized_at": "2026-09-09T21:27:00Z",
+    "expiration_date": "2026-09-23T21:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000431",
+    "return_request_id": "RMA-REQ-2026-000460",
+    "authorized_at": "2026-06-29T21:39:00Z",
+    "expiration_date": "2026-07-13T21:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000432",
+    "return_request_id": "RMA-REQ-2026-000461",
+    "authorized_at": "2026-08-30T13:33:00Z",
+    "expiration_date": "2026-09-13T13:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000433",
+    "return_request_id": "RMA-REQ-2026-000462",
+    "authorized_at": "2026-06-20T08:48:00Z",
+    "expiration_date": "2026-07-04T08:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000434",
+    "return_request_id": "RMA-REQ-2026-000465",
+    "authorized_at": "2026-06-13T07:09:00Z",
+    "expiration_date": "2026-06-27T07:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000435",
+    "return_request_id": "RMA-REQ-2026-000466",
+    "authorized_at": "2026-11-22T17:01:00Z",
+    "expiration_date": "2026-12-06T17:01:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000436",
+    "return_request_id": "RMA-REQ-2026-000467",
+    "authorized_at": "2027-01-12T04:54:00Z",
+    "expiration_date": "2027-01-26T04:54:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000437",
+    "return_request_id": "RMA-REQ-2026-000468",
+    "authorized_at": "2026-09-16T21:44:00Z",
+    "expiration_date": "2026-09-30T21:44:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000438",
+    "return_request_id": "RMA-REQ-2026-000469",
+    "authorized_at": "2026-12-07T12:49:00Z",
+    "expiration_date": "2026-12-21T12:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000439",
+    "return_request_id": "RMA-REQ-2026-000470",
+    "authorized_at": "2026-05-29T13:39:00Z",
+    "expiration_date": "2026-06-12T13:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000440",
+    "return_request_id": "RMA-REQ-2026-000471",
+    "authorized_at": "2026-11-18T15:19:00Z",
+    "expiration_date": "2026-12-02T15:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000441",
+    "return_request_id": "RMA-REQ-2026-000472",
+    "authorized_at": "2026-12-07T15:39:00Z",
+    "expiration_date": "2026-12-21T15:39:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000442",
+    "return_request_id": "RMA-REQ-2026-000473",
+    "authorized_at": "2026-11-25T07:21:00Z",
+    "expiration_date": "2026-12-09T07:21:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000443",
+    "return_request_id": "RMA-REQ-2026-000475",
+    "authorized_at": "2026-09-03T10:08:00Z",
+    "expiration_date": "2026-09-17T10:08:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000444",
+    "return_request_id": "RMA-REQ-2026-000476",
+    "authorized_at": "2026-07-07T08:49:00Z",
+    "expiration_date": "2026-07-21T08:49:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000445",
+    "return_request_id": "RMA-REQ-2026-000477",
+    "authorized_at": "2026-02-26T11:50:00Z",
+    "expiration_date": "2026-03-12T11:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000446",
+    "return_request_id": "RMA-REQ-2026-000478",
+    "authorized_at": "2026-05-03T15:46:00Z",
+    "expiration_date": "2026-05-17T15:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000447",
+    "return_request_id": "RMA-REQ-2026-000479",
+    "authorized_at": "2026-07-13T10:50:00Z",
+    "expiration_date": "2026-07-27T10:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000448",
+    "return_request_id": "RMA-REQ-2026-000480",
+    "authorized_at": "2026-05-17T19:09:00Z",
+    "expiration_date": "2026-05-31T19:09:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000449",
+    "return_request_id": "RMA-REQ-2026-000481",
+    "authorized_at": "2026-06-22T11:48:00Z",
+    "expiration_date": "2026-07-06T11:48:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000450",
+    "return_request_id": "RMA-REQ-2026-000482",
+    "authorized_at": "2026-10-22T04:01:00Z",
+    "expiration_date": "2026-11-05T04:01:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000451",
+    "return_request_id": "RMA-REQ-2026-000483",
+    "authorized_at": "2026-12-08T09:38:00Z",
+    "expiration_date": "2026-12-22T09:38:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000452",
+    "return_request_id": "RMA-REQ-2026-000484",
+    "authorized_at": "2026-12-31T21:27:00Z",
+    "expiration_date": "2027-01-14T21:27:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000453",
+    "return_request_id": "RMA-REQ-2026-000485",
+    "authorized_at": "2026-02-08T12:33:00Z",
+    "expiration_date": "2026-02-22T12:33:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000454",
+    "return_request_id": "RMA-REQ-2026-000486",
+    "authorized_at": "2026-03-19T12:58:00Z",
+    "expiration_date": "2026-04-02T12:58:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000455",
+    "return_request_id": "RMA-REQ-2026-000487",
+    "authorized_at": "2026-03-29T04:45:00Z",
+    "expiration_date": "2026-04-12T04:45:00Z",
+    "rma_status": "IN_TRANSIT"
+  },
+  {
+    "rma_id": "RMA-2026-000456",
+    "return_request_id": "RMA-REQ-2026-000488",
+    "authorized_at": "2027-01-09T23:28:00Z",
+    "expiration_date": "2027-01-23T23:28:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000457",
+    "return_request_id": "RMA-REQ-2026-000489",
+    "authorized_at": "2026-02-25T16:36:00Z",
+    "expiration_date": "2026-03-11T16:36:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000458",
+    "return_request_id": "RMA-REQ-2026-000490",
+    "authorized_at": "2027-01-03T04:02:00Z",
+    "expiration_date": "2027-01-17T04:02:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000459",
+    "return_request_id": "RMA-REQ-2026-000491",
+    "authorized_at": "2026-01-22T09:46:00Z",
+    "expiration_date": "2026-02-05T09:46:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000460",
+    "return_request_id": "RMA-REQ-2026-000492",
+    "authorized_at": "2027-01-11T17:18:00Z",
+    "expiration_date": "2027-01-25T17:18:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000461",
+    "return_request_id": "RMA-REQ-2026-000493",
+    "authorized_at": "2026-07-13T13:52:00Z",
+    "expiration_date": "2026-07-27T13:52:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000462",
+    "return_request_id": "RMA-REQ-2026-000494",
+    "authorized_at": "2026-08-22T23:15:00Z",
+    "expiration_date": "2026-09-05T23:15:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000463",
+    "return_request_id": "RMA-REQ-2026-000495",
+    "authorized_at": "2026-10-06T09:37:00Z",
+    "expiration_date": "2026-10-20T09:37:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000464",
+    "return_request_id": "RMA-REQ-2026-000497",
+    "authorized_at": "2026-06-07T05:07:00Z",
+    "expiration_date": "2026-06-21T05:07:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000465",
+    "return_request_id": "RMA-REQ-2026-000498",
+    "authorized_at": "2026-12-27T16:19:00Z",
+    "expiration_date": "2027-01-10T16:19:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000466",
+    "return_request_id": "RMA-REQ-2026-000499",
+    "authorized_at": "2026-03-12T20:50:00Z",
+    "expiration_date": "2026-03-26T20:50:00Z",
+    "rma_status": "CLOSED"
+  },
+  {
+    "rma_id": "RMA-2026-000467",
+    "return_request_id": "RMA-REQ-2026-000500",
+    "authorized_at": "2026-05-16T04:00:00Z",
+    "expiration_date": "2026-05-30T04:00:00Z",
+    "rma_status": "CLOSED"
+  }
+]

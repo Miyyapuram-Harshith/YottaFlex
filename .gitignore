@@ -1,0 +1,32 @@
+# Environments & dependencies
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+node_modules/
+dist/
+.DS_Store
+
+# Temporary outputs & logs
+*.log
+/tmp/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large generated scale 1.0 dataset (generate via `python3 erl_rma_benchmark.py --seed 20261022 --scale 1.0 --out ./erl_rma_export`)
+erl_rma_export/
+
+# SQLite databases (allow committed starter dataset for immediate local review)
+*.sqlite
+*.sqlite3
+*.db
+!erl_rma_export_starter/erl_rma.sqlite
+
+# Environment secrets
+.env
+.env.local
